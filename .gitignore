@@ -1,0 +1,41 @@
+# --- Keys and credentials (never commit) ---------------------------------------
+.env
+.env.*
+*.env
+.envrc
+*.key
+*.pem
+*.p12
+*.pfx
+*secret*
+*secrets*
+*credential*
+*credentials*
+*token*.json
+*.token
+api_key*
+apikey*
+openai_key*
+.netrc
+.npmrc
+.pypirc
+client_secret*.json
+service-account*.json
+
+# --- Large source media (documented as retrievable from media_url / video URL) --
+data/media/
+
+# --- Temporary and partial files --------------------------------------------------
+*.tmp
+*.part
+*.json.tmp
+*.ytdl
+*.temp
+
+# --- System and editor files ---------------------------------------------------------
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
