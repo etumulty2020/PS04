@@ -1,0 +1,18 @@
+{
+  "stage": "check_content",
+  "status": "completed",
+  "review_id": "ce31f0c52648a3621b61d575f67eb1471355e980f5e7580f559e22d778251c21",
+  "passed": false,
+  "input_count": 3,
+  "output_count": 1,
+  "errors_found": 3,
+  "started_at": "2026-10-15T20:32:27Z",
+  "finished_at": "2026-10-15T20:32:29Z",
+  "tools": [
+    "python3"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

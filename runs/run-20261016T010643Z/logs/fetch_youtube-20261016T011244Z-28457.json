@@ -1,0 +1,31 @@
+{
+  "stage": "fetch_youtube",
+  "status": "completed",
+  "input_count": 11,
+  "output_count": 157,
+  "sources_succeeded": 11,
+  "started_at": "2026-10-16T01:07:21Z",
+  "finished_at": "2026-10-16T01:12:44Z",
+  "tools": [
+    "curl",
+    "python3",
+    "yt-dlp"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "warnings": [
+    "ruckauthority_yt: RSS unavailable; trying yt-dlp discovery",
+    "goruck_yt: RSS unavailable; trying yt-dlp discovery",
+    "eberlestock_yt: RSS unavailable; trying yt-dlp discovery",
+    "longshot_tactical: RSS unavailable; trying yt-dlp discovery",
+    "eastmans_yt: RSS unavailable; trying yt-dlp discovery",
+    "vortex_yt: RSS unavailable; trying yt-dlp discovery",
+    "gatorz_yt: RSS unavailable; trying yt-dlp discovery",
+    "mountainsmullets_yt: RSS unavailable; trying yt-dlp discovery",
+    "truththenfreedom_yt: RSS unavailable; trying yt-dlp discovery",
+    "coldharbour_yt: RSS unavailable; trying yt-dlp discovery",
+    "huntfishshoot_yt: RSS unavailable; trying yt-dlp discovery"
+  ],
+  "errors": []
+}

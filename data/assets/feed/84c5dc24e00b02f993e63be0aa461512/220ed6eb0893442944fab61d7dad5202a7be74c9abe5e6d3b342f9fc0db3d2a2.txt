@@ -1,0 +1,99 @@
+More and more electro-optics are coming to market for the western hunter. Multiple use is the name of the game, and a single device that replaces two or more makes all the more sense to hunters that are already stuffing their pack with gear.
+
+This is why range-finding binoculars make so much sense. They eliminate the need for a separate binocular and laser rangefinder, and add the convenience of having ranges available immediately. Add in onboard environmental sensors, inclinometers, compasses, and advanced ballistic solvers, and you are really eliminating some gear.
+
+Sounds like a no-brainer, right? The issue has always been that there are required compromises when bringing optics, lasers, and displays together. Early versions were noticeably poor optically. So much so, many hunters returned to separate binoculars and rangefinders.
+
+Flagship RF binos from the big European companies of Zeiss, Leica, and Swarovski largely mitigated the issue with their recent models, and now hunters have the luxury of having top-shelf optics and ballistic rangefinding in one package. The rub on those? Well, that’s the usual one: they cost as much as that high-mileage used car you’ve been looking at for your teen driver.
+
+Other companies have brought to market more budget-friendly options. Generally, these mid-tier offerings have excellent rangefinding and advanced ballistics–but pair that up with optical performance that, while improved from the 1st generation, still falls behind better mid-priced dedicated binoculars in optical performance.
+
+The Jons (Jon Allen and Jon LaCorte) of Tract Optics intended to shake up that status quo with the introduction of the Tract Toric LRF 10×42 Rangefinding binocular by improving optical performance and combining it with an advanced laser and computations from Eagle Ballistics.
+
+At just under 6 inches long, the Toric LRF is more than a half inch shorter than the Zeiss Victory RF’s 7.6 inches. The Toric LRF is compact, but not exactly lightweight. The Toric LRF tips the scale at 2 lbs. 5.5 ounces with an Outdoorsman’s stud attached. The physically larger Victory RF (also with an Outdoorsman’s stud) is actually lighter at 2 lbs. 3 ounces.
+
+The Toric LRF is fully rubber armored with non-removable 4-position twist-out eyecups. Push-pull “locking” diopter rings are on each barrel. The left barrel adjusts the optic, and the right adjusts the display. The locking feature is rather loose, and I did have one occasion where the diopter had shifted out and moved slightly, so that is something for the hunter to keep an eye on. Additionally, adjusting the screen will affect the optic diopter, so make sure to adjust the screen first, and then move to the left barrel. One note on this. I normally have diopters close to the “0” setting on most optics. In order to get the screen sharp, I had to adjust the screen diopter pretty far to the “-“ side. Accordingly, I had to adjust the left diopter far “-“ as well, and ended up near the far limit of adjustment. Still, after adjustment, I ended up with a sharp, easy observation view and crisp display.
+
+The Toric LRF is powered by a single CR2 battery that is housed within the focus wheel.
+
+This conveniently allows the front hinge to accommodate standard 1/4-20 adapters. I immediately mounted a Outdoorsman’s binoculars adapter stud and left it on indefinitely..
+
+The right side of the Toric LRF has a single rubberized button marked “FIRE.” The button is raised slightly from the surrounding armor and has stippling around the text. The left side has four buttons. Opposite the FIRE button is a similarly sized and stippled “MODE” button. Further left are three smaller buttons without stippling marked “+”, “W”, and “-“. These buttons are dedicated to wind data adjustments.
+
+Having reviewed Tract’s spotting scope, I find the Toric LRF to be of similar build quality. That is, fit, finish, and materials are of very good quality and inspire confidence. However, it doesn’t quite have that super-premium feel of the really expensive European competition. Lens coatings are nicely applied and appear to be of high quality. Internal inspection from the objective side shows good blackening and some baffling to reduce stray light. Interestingly, I can observe largish Phillips-head screws securing assemblies in both barrels. I don’t remember seeing that in an optic before.
+
+Overall, the Toric LRF has a very sturdy, utilitarian feel. It is one of the highest quality Chinese-produced electro-optics I have handled. I did accidentally drop the Toric LRF about three feet onto dirt because I forgot to reconnect the tether to the bino harness after mounting to a tripod. It survived with no marks, no apparent effect on image quality, and I checked the laser alignment (more on this later!), and it had not moved. I did a 10-hour cold soak in the freezer with the battery removed. I pulled the frosty Toric LRF out of the freezer, put in the battery, uncapped the lenses, and immediately received instant ranges with ballistic information. Of course, like any frozen optic, it did not take long for the exterior lenses to ice over in the warmer air, naturally interfering with observation and ranging, but I could see the display operating within the right barrel. As the Toric LRF equalized with the air temperature, everything returned to proper working order.
+
+The Toric LRF has a suitably wide FOV at 330 ft. at 1000 yards. This is similar to traditional “wide field” 10×42 roof prism binoculars, but falls just short of the European competition like the Zeiss at 345 ft. at 1000 yards.
+
+Apparent sharpness is excellent, and I could resolve the same element on the chart as I could with the Zeiss Victory RF in close-range chart testing. This wasn’t too surprising as both optics have a relatively low 10x magnification, but I have seen lower apparent resolution on some other mid-tier RF models from other manufacturers, so this was a good sign for the Toric LRF.
+
+Color bias and transmission are where the expensive European models often have a clear advantage over the mid- and lower-tier options. In normal use, the Toric LRF has a pretty neutral to slightly cool image and doesn’t have the obvious color issues of other mid-tier competitors. However, when looking at a white background, I did notice a warm bias at the top of the image and a cool bias at the bottom. This led to testing the left and right barrels individually by shining light from the objective ends and observing the pupil left on a white sheet of paper. In this testing, it was clear the one barrel had a warm bias, and the other barrel was cool. This difference was much lower than other RF binoculars I have looked at, but still present.
+
+Running the same test on the Zeiss yielded no apparent difference between barrels.
+
+To be absolutely clear, this result for the Toric LRF is not poor. The color difference is small, and color issues during glassing are not noticeable under most conditions. In fact, the Tract has the mildest version of this effect I have seen from a non-Euro RF binocular.
+
+Low light performance is quite good. The Tract did a good job keeping up with the much more expensive Zeiss until the very end of twilight, when the Zeiss did appear a touch brighter. Still, the Toric LRF had very good performance for an RF binocular.
+
+Distortion is very well controlled in the Toric LRF. There is a low amount of pincushion distortion, which is almost identical to that of the Victory RF
+
+At the edge, fringing is easily visible and more intense than the Zeiss.
+
+The Tract Toric LRF has the best optics I have tested in a non-Euro RF binocular. I would gladly use the Toric LRF as my primary optic, and it pushes the very best competition in performance, even if it doesn’t quite match them.
+
+The rangefinding capabilities of the Toric LRF are what really stand out with this device. The on-board sensors include temperature, pressure, inclination, and compass bearing. The device syncs via Bluetooth with the Eagle Ballistics app. The device can store five profiles at a time. The ballistic display can be customized to display environmentals, earthbase effects (sic), bullet flight, windage and elevation, gun profile, and startup logo. The hunter can switch on and off any of those options.
+
+The Toric LRF reticle is customizable with circle, cross, oval, 1 MOA dot, and 2 MOA dot options.
+
+One of the best features is that the user can actually “sight in” the laser to co-witness the reticle to the location the laser is actually hitting. Most rangefinders I have used don’t hit exactly in the reticle, and I have always just tested to find where they are actually hitting relative to the reticle (the Zeiss is on the left side of the circle). With the Tract, the hunter can precisely align the reticle. I did just that, and liked using the scan mode on a road reflector to dial it in. The user can adjust up to 0.5 mil in each direction.
+
+Tract has several options for entering environmental data. You can select to use the Toric LRF’s on-board sensors, manually input data, or connect via Bluetooth to the Eagle Ballistic App and have the App do the calculations using the closest weather station data.
+
+There is a bow mode that has a simple display result and can be set to horizontal or line-of-sight distance.
+
+Target options include best, near, far, rain/snow, and extended. The best, near, and far return nearly instantaneous results while the other modes have a short delay. The rain/snow setting works well in those conditions but does not help in thick fog/clouds. In those conditions I consistently got false short readings if the fog was thick enough to substantially obscure the target visibly. I would put the fog performance on par with most premium rangefinders, however, and better than many.
+
+The red display is sharp and bright. There are three levels (low, mid, high) available as well as an auto setting. The auto setting worked well for dimmer conditions, and I liked the high setting for bright conditions.
+
+Imperial, Metric, MOA, and MIL units are user-selectable in the device. One note: the user must select the display units even if they synced a rifle profile that was put into the EB app under certain units.
+
+Wind adjustments can be made directly through the wind buttons, including changing direction and speed. One really cool feature is that the unit will automatically adjust the wind direction based on the direction of the device after you first set it. The Toric LRF remembers the last direction and adjusts it based on the compass. This requires keeping the compass calibrated, but worked well for me when I periodically calibrated. The calibration process is a piece of cake too. The hunter just enters the calibration menu and twists the device in a figure-8 motion for a few seconds.
+
+Need more wind info? Just let the app do the ballistics, and pull range data from the Toric LRF and wind data from a connected wind meter. The phone app is a necessary go-between for this functionality.
+
+Ranging performance is simply outstanding. The Toric LRF gives reliable ranges on trees almost instantaneously in Best target mode out to 3000 yards plus in most conditions. Reflective targets like buildings and shining rock faces can go even further. Ballistic data shows up immediately. The ability to sight in the laser and use a tiny MOA dot makes ranging in flat terrain much more reliable than other rangefinders. The overall range-finding performance is superior to the much more expensive Zeiss Victory RF.
+
+Ranging in thick clouds, I could get ranges with targets partially obscured by fog, but not when mostly obscured. In rainy conditions, the rain/snow setting did help get ranges out to just under 1000 yards.
+
+The ballistic engine used in the Toric LRF was developed and patented by James Eagleman 1SG/MSG (RET). Inputs are similar to other ballistic apps, and data is pushed to the Toric LRF by hitting the circular arrows icon at the top of the app page. Eagle Ballistics proved to be very accurate after using the simple BC truing method in-app. I got spot-on elevation solutions out to 1000ish yards. I had the Toric LRF next to the new Leica Geovid Max with Applied Ballistics on an elk hunt with my buddy Jared. I had the same rifle profile in both instruments, and from the same location, we ranged the same targets. Stunningly, we received ranges within 2 yards of each other from 300 yards to well past 2000 yards and ALWAYS received elevation solutions within 0.1 MRAD or 1/4 MOA, depending on output units selected. The consistency was amazing.
+
+The Eagle Ballistics App interface is simplistic in appearance, but detailed in content. It wasn’t intuitive to me on how to get through some of the tasks, and I ended up talking to James Eagleman on the phone to get familiar with it. James was fantastic and mentioned he was willing to help any EB customer get familiar with the app. Once I had my mind wrapped around all the features, and where to go to do what, the app worked slick and provided excellent solutions. The app can also pair with just about any Bluetooth accessory and acts as an intermediary between the Toric LRF and other devices like a kestrel wind meter to get the best solutions.
+
+I used the Tract Toric LRF in the field for scouting, shooting, shed hunting, and bow hunting for elk. The minor optical issues I identified above were not a concern in field use. The optical performance was very close to the European competition in actual field use. Despite the small color variation between barrels, the Toric LRF provides a very comfortable viewing experience with no eye strain after prolonged use.
+
+The display is excellent, the laser is powerful, and the returns are nearly instantaneous. Simple 1/4-20 mounting of tripod studs makes tripod glassing a breeze and stabilizes long-distance ranging attempts. Here is a video demonstrating ranging speed and performance:
+
+As far as ergonomics go, the Toric LRF is kind of a “brick” binocular. I got along with it fine, but I needed the inter-pupillary distance a little closer than I would like to get the perfect view of the display. The eyecups are decent, and I suspect they will fit most faces well enough. I preferred the ergonomics of both the Zeiss Victory RF and the Leica Geovid Max, but my friend who has used original Swarovski SLCs forever really liked the feel of the Toric LRF.
+
+The ballistic data was absolutely reliable under a wide range of conditions, and offered a simple and quick method of getting wind calls manually on the device. The ability of the unit to automatically adjust the wind direction according to the compass reading was a really convenient feature.
+
+The Toric LRF can save a Google Maps pin for the last location ranged. The hunter needs to have the EB App running and paired, then hit the unlabeled “pin” icon in the rifle submenu. This function worked to a degree and dropped pins within about 50 yards of the actual ranged location after a fresh compass calibration. However, the hunter will need to take the Lat/Long from Google Maps and manually enter it into any other mapping app they want to use.
+
+The Toric LRF ships with a usable bino harness with magnetic front closure. This accessory is good enough that many hunters will find no need to get a third-party harness. I did have the front opening flap come open occasionally, however, and I preferred the security of my usual FHF harness.
+
+Tract has a history of putting out optics that excel as top values in their segment. With the Toric LRF, they take this to a whole new level. This is an excellent tool for hunters. The optics are very, very good, and just behind the Euro leaders. The rangefinder is as good as anything available. The Toric LRF’s ballistic rangefinding capabilities are more extensive and precise than even those from Zeiss and Swarovski’s top RF offerings, while being highly competitive with the brand-new Leica Geovid MAX, which costs DOUBLE the Toric LRF.
+
+Eagle Ballistics is a full-featured app and on-device ballistics engine that integrates with the Toric LRF effortlessly.
+
+Considering the price and performance, the Toric LRF is easily one of the most impressive optics I have seen in recent years.
+
+I need more time with the Toric LRF to really evaluate the long-term durability, but it is comforting to know Tract covers the Toric LRF with the “Tract Trust Assurance” warranty, which is their fully transferable lifetime warranty that covers both the optics AND electronics. Not many electro-optics are covered so thoroughly. Available here.
+
+Comment or ask Matt questions here.
+
+Choose your glass wisely
+
+Meopta Optika LR VS Leica Geovid R Binoculars
+
+Swarovski ATC 17-40x56mm Spotting Scope Review

@@ -1,0 +1,205 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "completed",
+  "input_count": 7,
+  "output_count": 60,
+  "sources_succeeded": 7,
+  "title_skipped_count": 37,
+  "title_skipped": [
+    {
+      "source_id": "vortex_nation",
+      "title": "#10MinuteTalk | The Two Shot Zero",
+      "published_at": "2026-10-13T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "Ep. 467 | The Deer ID App with Identical Draw",
+      "published_at": "2026-10-12T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "Ep. 466 | Cool Guns with Ian | Historic Swiss Pistols",
+      "published_at": "2026-10-05T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "#10MinuteTalk | The .30 TC | The Lead Ballon that Made Other Cartridges Famous",
+      "published_at": "2026-09-29T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "Ep. 465 | Heckler & Koch Pistol x Vortex Red Dot Packages",
+      "published_at": "2026-09-28T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "#10MinuteTalk | Modern Suppressor design and Two Paths to Suppressor Ownership | Exigent Defense",
+      "published_at": "2026-09-22T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "Ep. 464 | H&K’s Most Iconic Firearms | James Williamson and Tommy Brooker",
+      "published_at": "2026-09-21T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "Ep. 463 | Behind the Scenes Stories of Wildcatting the 6.5 BC",
+      "published_at": "2026-09-14T11:00:00Z"
+    },
+    {
+      "source_id": "vortex_nation",
+      "title": "#10MinuteTalk | Practical Shooting Sports for Hunters: Build Real-World Marksmanship",
+      "published_at": "2026-09-08T11:00:00Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "Rifle Elk Hunting 201: Finding Bulls Everyone Else Misses with Cody Rich",
+      "published_at": "2026-10-12T12:00:33Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "Stories from Western Hunting Legend Jim Zumbo",
+      "published_at": "2026-09-28T12:00:35Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "How AI Is Helping Hunters Score Bucks Faster and Smarter",
+      "published_at": "2026-09-22T12:00:12Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "The No-BS Guide to Hunting Suppressors with Ryan Avery",
+      "published_at": "2026-09-14T21:17:29Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "The Tooth Tells the Truth: Aging Deer, Elk, and Bears",
+      "published_at": "2026-08-31T12:00:02Z"
+    },
+    {
+      "source_id": "rokcast",
+      "title": "Allterra Arms: The Rifle System That Turns One Shot Into Total Confidence",
+      "published_at": "2026-08-25T12:00:31Z"
+    },
+    {
+      "source_id": "huntbackcountry_pod",
+      "title": "597 | Sub-Zero Endurance & Thriving In Adversity with Joshua Brown",
+      "published_at": "2026-10-14T12:00:00Z"
+    },
+    {
+      "source_id": "huntbackcountry_pod",
+      "title": "596 | Elk Hunting, Brotherhood, & An Unexpected Medical Emergency",
+      "published_at": "2026-10-07T12:00:00Z"
+    },
+    {
+      "source_id": "huntbackcountry_pod",
+      "title": "595 | The Experience Challenge Sheep Hunt Winner (After the Hunt)",
+      "published_at": "2026-09-30T11:28:36Z"
+    },
+    {
+      "source_id": "huntbackcountry_pod",
+      "title": "In Memory of Nick Peters",
+      "published_at": "2026-09-23T13:27:24Z"
+    },
+    {
+      "source_id": "huntbackcountry_pod",
+      "title": "594 | Overcoming Limits in the Backcountry with Dan Jordan",
+      "published_at": "2026-08-26T12:00:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "Hunting Elk Mountain-Man Style: Solo, Public Land, with a .50-Caliber Flintlock",
+      "published_at": "2026-10-09T05:59:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "WINNING! With Traditional Muzzleloaders: Prep, Tuning, Shooting, & Scoring.",
+      "published_at": "2026-09-25T05:59:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "Hunting Red Stags, Fallow Deer, & Alpine Game in New Zealand: Planning & Prep",
+      "published_at": "2026-09-11T05:59:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "BEST CARTRIDGE for EVERYTHING, with Ron Spomer",
+      "published_at": "2026-09-04T05:59:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "Are Suppressors Deregulated Now?",
+      "published_at": "2026-08-28T05:59:00Z"
+    },
+    {
+      "source_id": "backcountry_hunting_pod",
+      "title": "Hunting Spanish Roebucks, Vineyards, & Monasteries",
+      "published_at": "2026-08-21T05:59:00Z"
+    },
+    {
+      "source_id": "v2p_nutrition",
+      "title": "Can You Talk to Your Spouse About Their Weight Gain? (Plus: Marriage and Hunting Season)- w/ Lindsay",
+      "published_at": "2026-10-05T11:00:00Z"
+    },
+    {
+      "source_id": "v2p_nutrition",
+      "title": "Fueling the Trail Masterclass: How to Eat for Runs, Hikes, and Mountain Expeditions",
+      "published_at": "2026-08-16T15:00:00Z"
+    },
+    {
+      "source_id": "v2p_nutrition",
+      "title": "\"Bigger Than Anything I’ve Done\": Dylan Dowson’s NZ Hunt Prep & Daily Strategies for Long-Term Wins",
+      "published_at": "2026-07-29T16:00:00Z"
+    },
+    {
+      "source_id": "v2p_nutrition",
+      "title": "Zone 2: Reclaiming the Basics in an Over-Optimized World (W/ Chantelle R. from Uphill Athlete and CC).",
+      "published_at": "2026-07-08T15:34:41Z"
+    },
+    {
+      "source_id": "v2p_nutrition",
+      "title": "Am I Wasting My Time? Four Things To Minimize Muscle Loss After 40 (Bonus!)",
+      "published_at": "2026-06-29T10:00:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9: Episode 284: The Training Rifle Isn't Dead — It May Be the Fastest Way to Master Your Rifle",
+      "published_at": "2026-09-23T13:20:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9: Episode 283 - How Many Rounds Does It Take to Master a Rifle? | The Road to Becoming a Rifleman",
+      "published_at": "2026-09-18T15:41:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9: Episode 282 – Wolf Precision Heads to Florida! Winter Long Range School, ACE on the Road & Why We Clean Our Brass",
+      "published_at": "2026-09-11T12:53:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9 Episode 281: \"Good Enough\" Is Killing Quality in the Rifle Industry",
+      "published_at": "2026-09-02T15:52:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9 Episode 280:  Reloading Safety: The Dangerous Cost of Complacency",
+      "published_at": "2026-08-20T14:30:00Z"
+    },
+    {
+      "source_id": "wolf_pod",
+      "title": "S9 Episode 279: Are You Loading Your Bullets Too Long? Rethinking Seating Depth & Bullet Jump",
+      "published_at": "2026-08-07T15:23:00Z"
+    }
+  ],
+  "started_at": "2026-10-15T12:15:09Z",
+  "finished_at": "2026-10-15T12:15:11Z",
+  "tools": [
+    "curl",
+    "python3"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

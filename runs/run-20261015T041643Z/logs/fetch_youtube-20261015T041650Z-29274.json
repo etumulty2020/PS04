@@ -1,0 +1,29 @@
+{
+  "stage": "fetch_youtube",
+  "status": "incomplete",
+  "input_count": 11,
+  "output_count": 0,
+  "sources_succeeded": 0,
+  "started_at": "2026-10-15T04:16:48Z",
+  "finished_at": "2026-10-15T04:16:50Z",
+  "tools": [
+    "curl",
+    "python3"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": [
+    "ruckauthority_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "goruck_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "eberlestock_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "longshot_tactical: download failed: curl: (56) The requested URL returned error: 404",
+    "eastmans_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "vortex_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "gatorz_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "mountainsmullets_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "truththenfreedom_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "coldharbour_yt: download failed: curl: (56) The requested URL returned error: 404",
+    "huntfishshoot_yt: download failed: curl: (56) The requested URL returned error: 404"
+  ]
+}

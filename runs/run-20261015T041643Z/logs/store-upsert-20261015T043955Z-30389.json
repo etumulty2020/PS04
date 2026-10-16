@@ -1,0 +1,21 @@
+{
+  "stage": "store-upsert",
+  "status": "completed",
+  "input_count": 154,
+  "output_count": 154,
+  "changes": {
+    "new": 2,
+    "changed": 9,
+    "unchanged": 143
+  },
+  "started_at": "2026-10-15T04:16:54Z",
+  "finished_at": "2026-10-15T04:39:55Z",
+  "tools": [
+    "bash",
+    "jq"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

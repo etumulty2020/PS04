@@ -1,1 +1,217 @@
-[]
+[
+  {
+    "source_id": "ruckauthority_feed",
+    "publisher_id": "ruckauthority",
+    "kind": "feed",
+    "url": "https://ruckauthority.com/feed.xml",
+    "perspective": "independent",
+    "notes": "Rucking gear reviews (packs, vests, plates, socks, base layers). Affiliate commissions; GORUCK supplied review units. Very high recent volume suggests bulk/SEO publishing; check enclosure MIME types (image enclosures)."
+  },
+  {
+    "source_id": "treeline_review",
+    "publisher_id": "treelinereview",
+    "kind": "feed",
+    "url": "https://www.treelinereview.com/gearreviews?format=rss",
+    "perspective": "independent",
+    "notes": "Hands-on outdoor gear testing: boots, socks, gloves, layers, sleep systems, packs. Affiliate model."
+  },
+  {
+    "source_id": "rokslide_feed",
+    "publisher_id": "rokslide",
+    "kind": "feed",
+    "url": "https://www.rokslide.com/feed/",
+    "perspective": "practitioner",
+    "notes": "Backcountry hunter reviews: rangefinding binoculars, packs, optics. Ad supported."
+  },
+  {
+    "source_id": "kitbadger",
+    "publisher_id": "kitbadger",
+    "kind": "feed",
+    "url": "https://kitbadger.com/feed/",
+    "perspective": "practitioner",
+    "notes": "Tactical gear reviews and first looks. Industry-sponsored content is common."
+  },
+  {
+    "source_id": "soldier_systems",
+    "publisher_id": "soldiersystems",
+    "kind": "feed",
+    "url": "https://soldiersystems.net/feed/",
+    "perspective": "commercial",
+    "notes": "Industry news, mostly manufacturer press releases (clothing, packs, power, ballistics). ~180 items/month and only 6 per feed page (use ?paged=N); needs heavy keyword filtering."
+  },
+  {
+    "source_id": "ssusa",
+    "publisher_id": "nra",
+    "kind": "feed",
+    "url": "https://www.ssusa.org/rss",
+    "perspective": "commercial",
+    "notes": "NRA publication. 'New:' product posts are close to press releases (mounts, bags, ballistic apps); treat as manufacturer claims. Mostly firearm content, so filter."
+  },
+  {
+    "source_id": "accurateshooter",
+    "publisher_id": "accurateshooter",
+    "kind": "feed",
+    "url": "https://bulletin.accurateshooter.com/feed/",
+    "perspective": "independent",
+    "notes": "Mounts and shooting-position technique. Feed holds ~3 days of items; Python's default client may fail, use a browser user-agent."
+  },
+  {
+    "source_id": "precisionrifleblog",
+    "publisher_id": "prb",
+    "kind": "feed",
+    "url": "https://precisionrifleblog.com/feed/",
+    "perspective": "independent",
+    "notes": "Competition context and data-driven gear surveys. Low volume (~2 posts/month). Behind Cloudflare."
+  },
+  {
+    "source_id": "ruckauthority_yt",
+    "publisher_id": "ruckauthority",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCF7DCIhGezl5fOdTD99yiww",
+    "perspective": "independent",
+    "notes": "Same publisher as ruckauthority_feed. Pack, vest, and boot reviews."
+  },
+  {
+    "source_id": "goruck_yt",
+    "publisher_id": "goruck",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCVjMhdrwMpYDyfMXIboyREQ",
+    "perspective": "commercial",
+    "notes": "Pack and ruck manufacturer; counterpoint to Ruck Authority's reviews. Low posting volume."
+  },
+  {
+    "source_id": "eberlestock_yt",
+    "publisher_id": "eberlestock",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UC2B1XZF2VcrNqfY8tPOhfcQ",
+    "perspective": "commercial",
+    "notes": "Pack manufacturer; promotes its own products. Gear-list videos suit multi-day events."
+  },
+  {
+    "source_id": "longshot_tactical",
+    "publisher_id": "longshottactical",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCk_ehTDcC4QHZjzsbvUH79w",
+    "perspective": "independent",
+    "notes": "Optics, bipod, and accessory reviews. Also posts rifle reviews (out of scope), so filter. Sponsorships not checked."
+  },
+  {
+    "source_id": "eastmans_yt",
+    "publisher_id": "eastmans",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCN8dXoUjBrs37i3OBdlww3A",
+    "perspective": "independent",
+    "notes": "Hunting media; rangefinding binocular reviews. Advertiser supported. Low in-scope volume."
+  },
+  {
+    "source_id": "vortex_yt",
+    "publisher_id": "vortex",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCuB7IyhjNPOlvPrnVMh8Jvw",
+    "perspective": "commercial",
+    "notes": "Optics manufacturer and Mammoth Sniper Challenge title sponsor (mounts, ballistic app content)."
+  },
+  {
+    "source_id": "gatorz_yt",
+    "publisher_id": "gatorz",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UC-yyydRsxT7q1FxKufS1Gfg",
+    "perspective": "commercial",
+    "notes": "Eyewear manufacturer. Makes a Vortex x Gatorz collaboration product (tie to title sponsor). Only eyewear source found."
+  },
+  {
+    "source_id": "mountainsmullets_yt",
+    "publisher_id": "mountainsmullets",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCyDHhBDEBYrYzsjC-nTbQzQ",
+    "perspective": "practitioner",
+    "notes": "Mountains, Mullets, Merica! (@MountainsMulletsMerica). Hands-on rangefinder, scope-camera, and ballistic-calculator testing (e.g. Element Seeker beam divergence and ballistic data). Also posts firearm and chassis videos (out of scope). Sponsorships not yet checked; frequent Element Seeker coverage may indicate a brand relationship."
+  },
+  {
+    "source_id": "truththenfreedom_yt",
+    "publisher_id": "truththenfreedom",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCax7ObEb8Dg7Z_K298V756g",
+    "perspective": "practitioner",
+    "notes": "Truth Then Freedom (@TruthThenFreedom). Competitor and trainer: long-term optic, thermal clip-on, reticle, and dry-fire gear evaluations plus match lessons (e.g. FAST Idaho). Low volume (~2-4 videos/month). Also covers suppressors and firearms (out of scope). Sponsorships not yet checked."
+  },
+  {
+    "source_id": "coldharbour_yt",
+    "publisher_id": "coldharboursupply",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCWDdsG8x8Zxqip_LRdO6oLA",
+    "perspective": "commercial",
+    "notes": "Cold Harbour Supply (@coldharboursupply). Night-vision and thermal RETAILER: its videos are overviews of products it sells, so treat them as manufacturer/retailer claims, not independent testing. Low volume (~2 videos/month)."
+  },
+  {
+    "source_id": "huntfishshoot_yt",
+    "publisher_id": "huntfishshoot",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/channel/UCj3N0KiiTC37QbapYYJ9cwA",
+    "perspective": "practitioner",
+    "notes": "Hunt Fish Shoot (@HuntFishShootChannel). One of the few creators who has covered the Mammoth Sniper Challenge directly (loadout videos). SPONSORED: partnered with MDT, which republishes its content on MDT's blog; treat its praise of MDT and partner products as sponsored, not independent. Mostly firearm reviews (out of scope) outside Mammoth season."
+  },
+  {
+    "source_id": "vortex_nation",
+    "publisher_id": "vortex",
+    "kind": "podcast",
+    "url": "https://feeds.simplecast.com/ePnT_9Pr",
+    "perspective": "commercial",
+    "notes": "Same publisher as vortex_yt. Optics and layering episodes; many episodes off topic. Posts ~2 episodes/week, so max_items is 12 to cover 30 days.",
+    "max_items": 12,
+    "title_keywords": ["gear", "review", "Q&A", "scope", "riflescope", "optic", "binocular", "spotter", "rangefinder", "ranging", "mount", "wind", "kestrel", "ballistic", "bipod", "tripod", "pack", "backpack", "boot", "sock", "layer", "layering", "insulation", "jacket", "clothing", "glove", "sleep", "shelter", "water", "hydration", "food", "nutrition", "fuel", "first aid", "battery", "solar"]
+  },
+  {
+    "source_id": "rokcast",
+    "publisher_id": "rokslide",
+    "kind": "podcast",
+    "url": "https://www.rokslide.com/feed/podcast/",
+    "perspective": "practitioner",
+    "notes": "Same publisher as rokslide_feed. Gear review episodes (packs, layers, food).",
+    "title_keywords": ["gear", "review", "Q&A", "scope", "riflescope", "optic", "binocular", "spotter", "rangefinder", "ranging", "mount", "wind", "kestrel", "ballistic", "bipod", "tripod", "pack", "backpack", "boot", "sock", "layer", "layering", "insulation", "jacket", "clothing", "glove", "sleep", "shelter", "water", "hydration", "food", "nutrition", "fuel", "first aid", "battery", "solar"]
+  },
+  {
+    "source_id": "huntbackcountry_pod",
+    "publisher_id": "exomtngear",
+    "kind": "podcast",
+    "url": "https://feed.podbean.com/huntbackcountry/feed.xml",
+    "perspective": "commercial",
+    "notes": "Run by Exo Mtn Gear (pack maker); practitioner gear Q&A but promotes its own brand.",
+    "title_keywords": ["gear", "review", "Q&A", "scope", "riflescope", "optic", "binocular", "spotter", "rangefinder", "ranging", "mount", "wind", "kestrel", "ballistic", "bipod", "tripod", "pack", "backpack", "boot", "sock", "layer", "layering", "insulation", "jacket", "clothing", "glove", "sleep", "shelter", "water", "hydration", "food", "nutrition", "fuel", "first aid", "battery", "solar"]
+  },
+  {
+    "source_id": "backcountry_hunting_pod",
+    "publisher_id": "backcountry_hunting_podcast",
+    "kind": "podcast",
+    "url": "https://rss.libsyn.com/shows/169529/destinations/1133615.xml",
+    "perspective": "practitioner",
+    "notes": "Gear lists for multi-day backpack trips and optics. Publisher affiliation and sponsorships not verified.",
+    "title_keywords": ["gear", "review", "Q&A", "scope", "riflescope", "optic", "binocular", "spotter", "rangefinder", "ranging", "mount", "wind", "kestrel", "ballistic", "bipod", "tripod", "pack", "backpack", "boot", "sock", "layer", "layering", "insulation", "jacket", "clothing", "glove", "sleep", "shelter", "water", "hydration", "food", "nutrition", "fuel", "first aid", "battery", "solar"]
+  },
+  {
+    "source_id": "v2p_nutrition",
+    "publisher_id": "valleytopeak",
+    "kind": "podcast",
+    "url": "https://feed.podbean.com/valleytopeaknutrition/feed.xml",
+    "perspective": "practitioner",
+    "notes": "Backcountry nutrition and hydration. Co-branded episode with Argali (who also appears on Vortex Nation).",
+    "title_keywords": ["nutrition", "hydration", "food", "fuel", "calorie", "electrolyte", "meal", "water"]
+  },
+  {
+    "source_id": "wolf_pod",
+    "publisher_id": "wolf",
+    "kind": "podcast",
+    "url": "https://rss.libsyn.com/shows/143417/destinations/906350.xml",
+    "perspective": "practitioner",
+    "notes": "Wolf Precision, a custom rifle builder: wind and scope-mounting episodes. Practitioner with a commercial interest; rifle episodes out of scope.",
+    "title_keywords": ["gear", "review", "Q&A", "scope", "riflescope", "optic", "binocular", "spotter", "rangefinder", "ranging", "mount", "wind", "kestrel", "ballistic", "bipod", "tripod", "pack", "backpack", "boot", "sock", "layer", "layering", "insulation", "jacket", "clothing", "glove", "sleep", "shelter", "water", "hydration", "food", "nutrition", "fuel", "first aid", "battery", "solar"]
+  },
+  {
+    "source_id": "prs_pod",
+    "publisher_id": "prs",
+    "kind": "podcast",
+    "url": "https://rss.buzzsprout.com/2605409.rss",
+    "perspective": "practitioner",
+    "notes": "Precision Rifle Series league podcast; league has many industry sponsors (e.g. Leica optics episode)."
+  }
+]

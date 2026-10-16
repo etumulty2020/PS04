@@ -1,0 +1,29 @@
+{
+  "stage": "create_briefs",
+  "status": "needs_repair",
+  "input_count": 34,
+  "output_count": 0,
+  "started_at": "2026-10-15T05:03:43Z",
+  "finished_at": "2026-10-15T05:03:47Z",
+  "tools": [
+    "codex",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "codex-configured-default"
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": [
+    "expected briefs 01, 02, 03; got []",
+    "series cites no feed evidence; all three input types must contribute",
+    "series cites no youtube evidence; all three input types must contribute",
+    "series cites no podcast evidence; all three input types must contribute",
+    "no briefs in the reply (saved in runs/run-20261015T041643Z/logs/create_briefs-reply.json)"
+  ]
+}

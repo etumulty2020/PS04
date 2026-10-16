@@ -1,0 +1,30 @@
+{
+  "stage": "extract_content",
+  "status": "incomplete",
+  "input_count": 159,
+  "output_count": 154,
+  "extracted": 141,
+  "reused_transcripts": 13,
+  "transcribe_engine": "local",
+  "api_audio_minutes": 0.0,
+  "started_at": "2026-10-15T04:16:54Z",
+  "finished_at": "2026-10-15T04:37:32Z",
+  "tools": [
+    "curl",
+    "yt-dlp",
+    "ffmpeg",
+    "python3"
+  ],
+  "models": [
+    "mlx-community/whisper-large-v3-turbo"
+  ],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": [
+    "feed:https://kitbadger.com/ramen-chronicles-2-1/?utm_source=rss&utm_medium=rss&utm_campaign=ramen-chronicles-2-1: page has under 100 words of text",
+    "feed:https://kitbadger.com/flash-mitigation-part-11-ab-suppressors-a-10-5-56/?utm_source=rss&utm_medium=rss&utm_campaign=flash-mitigation-part-11-ab-suppressors-a-10-5-56: page has under 100 words of text",
+    "feed:https://kitbadger.com/lems-primal-eco/?utm_source=rss&utm_medium=rss&utm_campaign=lems-primal-eco: page has under 100 words of text",
+    "feed:https://kitbadger.com/burn-proof-gear-suppressor-covers/?utm_source=rss&utm_medium=rss&utm_campaign=burn-proof-gear-suppressor-covers: page has under 100 words of text",
+    "feed:https://kitbadger.com/finnish-brutality-2026/?utm_source=rss&utm_medium=rss&utm_campaign=finnish-brutality-2026: page has under 100 words of text"
+  ]
+}

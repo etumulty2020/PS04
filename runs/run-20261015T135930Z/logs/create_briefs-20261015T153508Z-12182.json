@@ -1,0 +1,26 @@
+{
+  "stage": "create_briefs",
+  "status": "needs_repair",
+  "input_count": 8,
+  "output_count": 3,
+  "started_at": "2026-10-15T15:34:26Z",
+  "finished_at": "2026-10-15T15:35:08Z",
+  "tools": [
+    "claude",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "claude-haiku-5-5"
+  ],
+  "tokens": {
+    "input": 36079,
+    "output": 7942
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": [
+    "01 cites 1 independent publisher(s); at least 3 are required",
+    "02-c6 cites an item version that was not accepted: feed:https://www.youtube.com/watch?v=SlW6o3cO2rk"
+  ]
+}

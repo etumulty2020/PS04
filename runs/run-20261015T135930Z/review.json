@@ -1,0 +1,42 @@
+{
+  "review_id": "ce31f0c52648a3621b61d575f67eb1471355e980f5e7580f559e22d778251c21",
+  "passed": true,
+  "issues": [
+    {
+      "artifact": "articles/01.md",
+      "piece_id": "01",
+      "severity": "warning",
+      "message": "body is 950 words; target 600-900"
+    },
+    {
+      "artifact": "articles/02.md",
+      "piece_id": "02",
+      "severity": "warning",
+      "message": "body is 905 words; target 600-900"
+    },
+    {
+      "artifact": "video_scripts/02.md",
+      "piece_id": "02",
+      "severity": "warning",
+      "message": "narration is 804 words; 450-750 fits 3-5 minutes"
+    },
+    {
+      "artifact": "articles/03.md",
+      "piece_id": "03",
+      "severity": "warning",
+      "message": "body is 1000 words; target 600-900"
+    },
+    {
+      "artifact": "video_scripts/03.md",
+      "piece_id": "03",
+      "severity": "warning",
+      "message": "narration is 752 words; 450-750 fits 3-5 minutes"
+    },
+    {
+      "artifact": "all",
+      "piece_id": null,
+      "severity": "warning",
+      "message": "Human review required: check that interpretations are sound, sponsorships are disclosed, and uncertainty is stated honestly."
+    }
+  ]
+}

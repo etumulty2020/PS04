@@ -1,0 +1,17 @@
+{
+  "stage": "fetch_feeds",
+  "status": "completed",
+  "input_count": 8,
+  "output_count": 166,
+  "sources_succeeded": 8,
+  "started_at": "2026-10-15T01:02:02Z",
+  "finished_at": "2026-10-15T01:02:07Z",
+  "tools": [
+    "curl",
+    "python3"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

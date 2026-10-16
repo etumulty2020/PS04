@@ -1,0 +1,41 @@
+Deals
+
+About
+
+Categories
+
+Archives
+
+Tactical Fanboy
+
+Email
+
+Advertise Sale Upload
+
+Cart
+
+Skapion Unveils the World’s First Native Counter-Swarm Defense System
+
+Purpose-built for simultaneous, large-scale engagements against drone swarm attacks at a significantly lower cost
+
+Washington, D.C. / Ramat Gan, Israel, October 14, 2026 – Skapion, a defense technology company developing advanced counter-swarm solutions, today unveiled what the company describes as the world’s first Native Counter-Swarm defense system, a new class of air-defense capability purpose-built from the ground up to detect, engage and defeat large-scale, coordinated drone swarm attacks, in an affordable cost.
+
+Skapion recently announced a $36 million Seed funding roundled by UP. Partners and Khosla Ventures to accelerate the development and validation of its counter-swarm defense system.
+
+As coordinated drone attacks grow in scale, speed and sophistication, conventional counter-UAS solutions face an increasingly difficult challenge. Most existing air-defense technologies were originally developed to engage individual or limited numbers of threats, creating operational, capacity and cost constraints when confronted with simultaneous mass attacks, as seen in the wars in Ukraine and Iran where legacy air defense systems are being saturated by drone swarms built to exhaust defender magazines and budgets.
+
+Skapion takes a fundamentally different approach. The company’s system has been designed by Skapion’s Founding Architect, General (ret.) Pini Yungman, Architect of Iron Dome and former GM of Rafael Air & Missile Defense and engineered from inception around a native many-to-many architecture, enabling multiple interceptors to engage multiple targets simultaneously and at scale.
+
+The highly mobile, fully kinetic system is designed to simultaneously engage more than 100 targets with an interception rate above 97%, while delivering a significantly lower cost per interception compared with conventional air-defense solutions – creating an economically sustainable defense layer against mass, low-cost aerial threats.
+
+At the center of the system is an AI-native command-and-control architecture that fuses data from Skapion’s own detection and tracking sensors or third-party systems. It evaluates and prioritizes threats, allocates interceptors and manages engagements in real time – allowing full end-to-end autonomy or a single human operator on the loop – per customer policy. An open, sensor-agnostic architecture enables integration with external threat data, existing C2 systems and other counter-UAS systems. This makes the Skapion system relevant both as a standalone air defense battery for critical infrastructure and maneuvering forces and as an easily deployable national air-defense complementary and gap filling system.
+
+Skapion’s fully kinetic approach is designed to engage communication-independent and autonomous threats. Its vertical-launch architecture provides 360-degree engagement capability, while the system is designed for flexible deployment across ground, airborne and maritime platforms.
+
+“The next generation of threats cannot be defeated by simply stacking yesterday’s air-defense solutions,” said Ido Bar-On, Co-founder and CEO of Skapion. “A swarm is not just a larger number of discrete drones. It changes the dynamics of the engagement, the number of simultaneous decisions, the speed at which they must be made and the economies of every interception. Native Counter-Swarm means designing the entire system from day one for simultaneous mass engagement.”
+
+This entry was posted on Wednesday, October 14th, 2026 at 15:00 and is filed under C-UAS, Press Release. You can follow any responses to this entry through the RSS 2.0 feed. Both comments and pings are currently closed.
+
+Comments are closed.
+
+We reserve the right to refuse advertising to anyone Entries (RSS) and Comments (RSS). Soldier Systems Daily is in no way affiliated with the US Government. Copyright © Soldier Systems Daily 2008-2021. All Rights Reserved.

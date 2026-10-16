@@ -1,0 +1,23 @@
+{
+  "stage": "write_video_scripts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-15T15:44:30Z",
+  "finished_at": "2026-10-15T15:46:21Z",
+  "tools": [
+    "claude",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "claude-sonnet-5-5"
+  ],
+  "tokens": {
+    "input": 42605,
+    "output": 15287
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": []
+}

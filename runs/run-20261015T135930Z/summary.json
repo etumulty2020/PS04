@@ -1,0 +1,215 @@
+{
+  "run_id": "run-20261015T135930Z",
+  "as_of_date": "2026-10-15",
+  "mode": "live",
+  "status": "ready_for_production",
+  "counts": {
+    "discovered": 385,
+    "duplicate_observations": 0,
+    "extracted": 185,
+    "new": 3,
+    "changed": 27,
+    "unchanged": 155,
+    "eligible": 185,
+    "excluded": 163,
+    "accepted": 8,
+    "rejected": 134,
+    "deferred": 43,
+    "articles": 3,
+    "video_scripts": 3
+  },
+  "coverage": {
+    "collected": {
+      "by_kind": {
+        "feed": 166,
+        "youtube": 159,
+        "podcast": 60
+      },
+      "independent_publishers": 23,
+      "by_publisher": {
+        "ruckauthority": 59,
+        "treelinereview": 20,
+        "rokslide": 18,
+        "kitbadger": 10,
+        "soldiersystems": 6,
+        "nra": 50,
+        "accurateshooter": 10,
+        "prb": 10,
+        "goruck": 15,
+        "eberlestock": 15,
+        "longshottactical": 15,
+        "eastmans": 15,
+        "vortex": 27,
+        "gatorz": 15,
+        "mountainsmullets": 15,
+        "truththenfreedom": 15,
+        "coldharboursupply": 15,
+        "huntfishshoot": 15,
+        "exomtngear": 8,
+        "backcountry_hunting_podcast": 8,
+        "valleytopeak": 8,
+        "wolf": 8,
+        "prs": 8
+      }
+    },
+    "eligible": {
+      "by_kind": {
+        "feed": 148,
+        "youtube": 23,
+        "podcast": 14
+      },
+      "independent_publishers": 19,
+      "by_publisher": {
+        "ruckauthority": 59,
+        "treelinereview": 22,
+        "rokslide": 7,
+        "kitbadger": 1,
+        "soldiersystems": 8,
+        "nra": 45,
+        "accurateshooter": 14,
+        "prb": 2,
+        "goruck": 1,
+        "eberlestock": 4,
+        "eastmans": 3,
+        "gatorz": 1,
+        "mountainsmullets": 4,
+        "truththenfreedom": 1,
+        "vortex": 1,
+        "exomtngear": 3,
+        "backcountry_hunting_podcast": 2,
+        "wolf": 2,
+        "prs": 5
+      }
+    },
+    "accepted": {
+      "by_kind": {
+        "feed": 5,
+        "youtube": 2,
+        "podcast": 1
+      },
+      "independent_publishers": 5,
+      "by_publisher": {
+        "treelinereview": 2,
+        "rokslide": 2,
+        "accurateshooter": 1,
+        "ruckauthority": 2,
+        "vortex": 1
+      }
+    }
+  },
+  "problem_stages": [
+    {
+      "stage": "collect_sources",
+      "status": "incomplete",
+      "errors": [
+        "extract_content=1"
+      ]
+    },
+    {
+      "stage": "create_series",
+      "status": "needs_repair",
+      "errors": [
+        "create_briefs=1"
+      ]
+    },
+    {
+      "stage": "extract_content",
+      "status": "incomplete",
+      "errors": [
+        "feed:https://kitbadger.com/ramen-chronicles-2-1/?utm_source=rss&utm_medium=rss&utm_campaign=ramen-chronicles-2-1: page has under 100 words of text",
+        "feed:https://kitbadger.com/flash-mitigation-part-11-ab-suppressors-a-10-5-56/?utm_source=rss&utm_medium=rss&utm_campaign=flash-mitigation-part-11-ab-suppressors-a-10-5-56: page has under 100 words of text",
+        "feed:https://kitbadger.com/lems-primal-eco/?utm_source=rss&utm_medium=rss&utm_campaign=lems-primal-eco: page has under 100 words of text",
+        "feed:https://kitbadger.com/burn-proof-gear-suppressor-covers/?utm_source=rss&utm_medium=rss&utm_campaign=burn-proof-gear-suppressor-covers: page has under 100 words of text",
+        "feed:https://kitbadger.com/finnish-brutality-2026/?utm_source=rss&utm_medium=rss&utm_campaign=finnish-brutality-2026: page has under 100 words of text",
+        "youtube:f1pZnHqplfM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:wvnHu9lB9xo: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:MbZV7YKAZxg: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:MSZzxeQk0TI: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:ssD_ozlzgcM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:CQ9MeFmixk0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:Y7zFIy-HfSc: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:e8vdLFEYSbw: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:OuweShSzz3E: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:RPDZxNXDRcQ: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:XnnC5fQOTAA: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:40gCROVPek8: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:pRGNaLzUrBY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:O24MewT13_M: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:UeYlt1LbibI: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:5stOlyGq5LY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:KtTyovKBis0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:7jl6O6wfmWA: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:P12wQvTOh3U: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:Pdrkx39VE8g: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:QS_dy_E55Pw: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:AuTpFj6mJEA: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:GTlBeyb5boA: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:emo-NBxElKI: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:VDze_LppHDg: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:fY5wALchRSs: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:cvWumDxWbzM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:XLjjKm1sQDY: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:5JJQb6QYnTQ: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:Me8peCKEIr4: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:toi95hmya5Y: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:DlmWrI9bZiU: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:EBospDcKezM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:JTU-LqYPmgM: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:jISkCw3GCmQ: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:453yW15yG5o: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:rSL14gztwc0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:q92v-sLywT0: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:gulwjgPh4h4: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+        "youtube:lOEGMUy06k4: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"
+      ]
+    }
+  ],
+  "elapsed_seconds": 10925.0,
+  "models": [
+    "claude-haiku-5-5",
+    "claude-sonnet-5-5",
+    "mlx-community/whisper-large-v3-turbo"
+  ],
+  "tools": [
+    "bash",
+    "claude",
+    "curl",
+    "ffmpeg",
+    "jq",
+    "python3",
+    "yt-dlp"
+  ],
+  "cost": {
+    "known_usd": 0,
+    "includes_estimates": false,
+    "unknown_cost_stages": [
+      "create_briefs",
+      "select_items",
+      "write_articles",
+      "write_video_scripts"
+    ]
+  },
+  "review_passed": true,
+  "approval": "approve",
+  "published_links": [
+    {
+      "piece_id": "01",
+      "substack_url": null,
+      "youtube_url": null
+    },
+    {
+      "piece_id": "02",
+      "substack_url": null,
+      "youtube_url": null
+    },
+    {
+      "piece_id": "03",
+      "substack_url": null,
+      "youtube_url": null
+    }
+  ],
+  "remaining_manual_actions": [
+    "Make the videos in Google Vids, upload them to YouTube, and publish the articles on Substack (see package/MANUAL_STEPS.md).",
+    "After publishing, fill in package/publication_links.json."
+  ]
+}

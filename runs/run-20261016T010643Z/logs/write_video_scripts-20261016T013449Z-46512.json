@@ -1,0 +1,23 @@
+{
+  "stage": "write_video_scripts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-16T01:33:25Z",
+  "finished_at": "2026-10-16T01:34:49Z",
+  "tools": [
+    "codex",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "codex-configured-default"
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": []
+}

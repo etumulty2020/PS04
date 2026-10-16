@@ -1,0 +1,149 @@
+Free newsletter
+
+Rucking notes by email
+
+New gear reviews and practical training notes. Join now to get the newsletter from its first issue. Unsubscribe anytime.
+
+The shuffle is longstanding GORUCK guidance. Its white paper describes quick, low steps with one foot on the ground, using less weight once you have experience under a pack.
+
+The September campaign pairs that technique with the Basic Rucker. Jason McCarthy's 30 lb example is his lighter load, not a universal starting prescription.
+
+The Army calls the same movement the airborne shuffle, and two university studies have measured it under a combat load. It cost more oxygen and raised heart rate compared with walking at the same speeds.
+
+No study compares a 30 lb shuffle with an unloaded jog, so GORUCK's claim that the swap is easier on the knees remains unproven.
+
+The Basic Rucker has one elevated plate pocket rated for up to 30 lb of Standard plates. A suitable pack you already own may do the job.
+
+You can keep walking. Shuffling is an optional way to pursue pace, not a requirement for getting value from rucking.
+
+GORUCK's September campaign makes a lively case for the ruck shuffle: reduce the weight, move faster, and give your cardiovascular system more to do. The archived email pairs that advice with the Basic Rucker.
+
+The technique predates this campaign. GORUCK's Rucking White Paper, published years earlier, already described shuffling and distinguished it from running with a heavy pack. This is renewed promotion of an established technique, not a reversal of the company's walking advice.
+
+The useful starting point is GORUCK's technique and intended audience: experienced ruckers looking for another way to train. Below, we explain the setup, what the Army's own studies of the movement found, the relevant pack features and where the safety evidence stops.
+
+Ruck Authority earns a commission on GORUCK purchases made through our links.
+
+How GORUCK describes the technique
+
+In the September 24 email, co-founder Jason McCarthy describes shuffling as a sustainable effort between walking and running. His example is 30 lb, compared with the 45 or 60 lb he carries on other days. He promotes cardiovascular demand, stamina and calorie expenditure, and pitches a specific swap: if you jog an 8 to 9 minute mile, put 30 lb on your back and shuffle instead. The email's list of benefits includes saving your knees. He also explicitly cautions against running with a heavy ruck.
+
+His three setup cues are to use a manageable load, go without a hip belt, and hold the pack close and high. The email directs experienced ruckers toward a faster session and links the Basic Rucker to its Ruck or Die events.
+
+The older white paper gives the movement more detail: short, quick steps, feet kept low, and one foot remaining on the ground. It describes this as an advanced technique to try with less weight after building experience. That matters: calling any loaded jog a shuffle doesn't faithfully describe GORUCK's instructions.
+
+The email's 75% effort is a coaching cue. It doesn't specify a percentage of maximum heart rate, heart-rate reserve or a measured threshold. We shouldn't turn it into a precise Zone 2 target.
+
+What the airborne shuffle studies found
+
+US soldiers sometimes use the same short-stride gait on loaded marches and call it the airborne shuffle. Researchers at Middle Tennessee State University have measured it against loaded walking in a 2014 master's thesis and a 2017 doctoral dissertation. Both were reviewed by university committees rather than journal referees, and both used small samples.
+
+Brenes (2014) tested 20 Army ROTC cadets, average age 22, carrying a standard combat load at 2.5, 3.0 and 3.5 mph. At every speed, shuffling raised oxygen cost, heart rate and respiratory exchange ratio compared with walking (p < .001). The thesis concludes that the shuffle is not a more economical way to carry a combat load than walking.
+
+Clark (2017) studied 11 soldiers and defines the shuffle as a deliberately shortened stride. At 3.0 mph it produced shorter strides, shorter stance and swing phases and a quicker cadence than walking. Left to pick their own pace, soldiers shuffled faster than they walked, and oxygen use, heart rate, breathing and perceived effort all rose with it. Clark suggests the shuffle may reduce stress on the lower limbs, but the dissertation measured gait timing and energy cost, not joint forces. Its recommendation is to prioritize walking on loaded marches because the shuffle costs more energy and feels harder.
+
+Read together, the two projects support half of GORUCK's pitch: the shuffle is harder work than walking at the same speed, which is the point if you want more cardiovascular demand from a lighter pack. The knee half appears only as a possibility in Clark's discussion. Both projects also compared the shuffle with walking at 2.5 to 3.5 mph, roughly a 17 to 24 minute mile. Neither tested GORUCK's actual swap of a 30 lb shuffle for an unloaded 8 to 9 minute-mile jog.
+
+What load-carriage running research adds
+
+For the comparison GORUCK makes, against jogging, the closest evidence comes from studies of walking and running with and without load. They help explain why technique and load matter. They can't settle which option is safer for your knees.
+
+How you move changes the forces
+
+Keller and colleagues' 1996 study measured ground reaction forces in 23 recreational athletes walking and running at different speeds. Its slow-jogging condition produced particularly high forces and loading rates, associated with more vertical movement.
+
+That gives a biomechanical reason to pay attention to bounce. It doesn't validate GORUCK's loaded technique: participants weren't performing a standardized ruck shuffle, and the study didn't measure subsequent knee injuries. A form cue can be sensible without having its own clinical trial.
+
+Adding weight changes the task
+
+Birrell and colleagues measured increased ground reaction forces during military load carriage. Silder, Besier and Delp studied 27 people running at a fixed speed with progressively heavier weight vests. Added load increased peak vertical force and changed leg stiffness and posture.
+
+Two further running studies looked closer at the joints. Brown and colleagues had 15 male military personnel run carrying about 6, 20 and 40 kg; heavier loads raised peak knee, hip and trunk flexion moments during steady running. Liew, Morris and Netto ran 31 people at 3 to 5 m/s, roughly 5:20 to 9:00 per mile, carrying up to 20% of body weight. More load increased joint power late in stance and altered ankle, knee and hip angles.
+
+Those results don't prove that a loaded shuffle is worse than an unloaded jog. The pack, gait, speed and person all matter, and none of these experiments tested that comparison. They do give us a reason to treat added weight as a real training demand, even when the movement feels smooth.
+
+Knee safety needs a different kind of evidence
+
+Force measured under the foot isn't the same thing as force inside the knee, and neither is an injury rate. We can't divide two ground-force numbers and call the result a knee-safety advantage.
+
+To establish the email's knee claim, we'd want a direct comparison with clearly defined loads, speeds and technique, followed by relevant joint measurements or injuries over time. None of the sources on this page supplies that, including the two airborne shuffle projects. The fair conclusion is that a knee-protection advantage over jogging isn't established here, not that shuffling has been shown to damage knees.
+
+Army injury-prevention guidance cautions about ruck running. Knapik's review discusses load-carriage injuries and conditioning. These support taking progression seriously; they aren't trials of GORUCK's shuffle.
+
+We haven't tested the shuffle against jogging. This is an analysis of GORUCK's published advice, the airborne shuffle studies and related load-carriage research, not an injury-prevention trial or a medical recommendation.
+
+Where the Basic Rucker fits
+
+The current Basic Rucker listing offers 14L and 17L versions. Its elevated pocket takes up to 30 lb of Standard plates, including a 20-plus-10 combination. The 420D Robic body, 840D bottom, side storage and compact layout make it a plausible choice for carrying a plate and a few essentials.
+
+That capacity is a product limit, not advice to start at 30 lb. McCarthy's example reflects his own training. Your familiar load may be much lighter.
+
+Our Basic Rucker introduction covers its layout and plate compatibility. We haven't established its performance in a controlled shuffle comparison, so there's no firsthand bounce or joint-comfort result to claim here.
+
+Basic Rucker or Rucker 5.0?
+
+Choose around the rest of your use:
+
+Basic Rucker: a compact bag with one plate pocket for lighter sessions and everyday essentials.
+
+Rucker 5.0: more room, training handles and two plate pockets. GORUCK lists 20L and 25L versions with a combined plate capacity of 75 lb. That's capacity, not a shuffle recommendation.
+
+If your current pack holds an appropriate load securely and fits comfortably, a new one isn't a prerequisite. The plate comparison can help check dimensions before buying weight for an existing bag.
+
+Should you try it?
+
+For general fitness, brisk loaded walking remains a useful session on its own. Shuffling is an optional addition to that training. If you're training for a particular event, check its rules and practice the movement it requires.
+
+If you're an experienced rucker interested in shuffling, start by understanding GORUCK's demonstration. Use less than your usual comfortable walking load, try a brief section on even ground, and reassess before extending it. That's a cautious way to explore a new movement, not a validated progression or a guarantee against injury.
+
+Stop if you develop pain, numbness or an altered gait. Don't use a pace target to push through those symptoms. If you're new to rucking, build comfortable walking first; our beginner's guide is the better starting point.
+
+Adjust the pack so the load stays close without restricting breathing or causing tingling. Less pack movement can improve how the setup feels, but it doesn't establish lower joint forces or make a particular weight safe.
+
+Frequently asked questions
+
+GORUCK describes quick, low steps with a loaded pack while keeping one foot on the ground. Its older white paper presents the technique as an option for experienced ruckers using less weight. The US Army's name for the same shortened-stride gait is the airborne shuffle.
+
+Yes, under its military name. Two Middle Tennessee State University projects, a 2014 thesis with 20 ROTC cadets and a 2017 dissertation with 11 soldiers, compared the airborne shuffle with walking under a combat load. The shuffle cost more oxygen and raised heart rate, and the dissertation also recorded higher perceived effort. Neither compared it with jogging.
+
+GORUCK distinguishes the two and discourages running with a heavy pack. Follow the actual demonstration rather than treating any loaded jog as its recommended shuffle. The name alone doesn't establish how demanding a movement is.
+
+There's no universal shuffle starting weight established by the studies here. McCarthy's 30 lb example is lighter than his usual load. It shouldn't become a default for someone with a different training history.
+
+No study compares a loaded shuffle with an unloaded jog. The airborne shuffle studies compared it with walking; one suggests it may ease lower-limb stress but didn't measure joint forces. Ground-force and loaded-running studies measure related movements, which aren't knee injury outcomes. The claimed advantage is unproven rather than disproven.
+
+No. A suitably fitted pack that holds your chosen load securely may work. The Basic Rucker is one option; check plate fit and comfort before changing your pace.
+
+Correction, October 9, 2026: An earlier version overstated the novelty of GORUCK's advice, treated an effort cue as a heart-rate target, and claimed Basic Rucker testing that wasn't documented. It also drew conclusions about shuffle safety that the cited studies don't establish. Those passages have been corrected.
+
+Correction, October 13, 2026: Earlier versions of this article and our social posts treated the ruck shuffle as unstudied because we searched only for GORUCK's name for it. A reader pointed out the military name. The US Army calls the movement the airborne shuffle, and two university studies have measured it against walking. We added their findings and narrowed the open question to GORUCK's specific comparison with jogging.
+
+Related
+
+GORUCK Basic Rucker: Introduction, Plate Fit and Current Options
+
+GORUCK Rucker 5.0 Review: 25L Tested With a 20 lb Plate
+
+Ruck Running vs Fast Walking: What Should You Train?
+
+Speed Rucking: Walking Intervals to Improve Your Pace
+
+Which GORUCK Should You Buy?
+
+Related Articles
+
+Indoor Rucking Plan: A 4-Week Treadmill Program
+
+A four-week treadmill rucking plan that holds pack load steady, separates incline from duration progressions, and uses two loaded sessions plus unloaded aerobic work.
+
+Fall and Winter Rucking: Indoor Options, Dark Evenings and Events
+
+Choose a safer route as daylight and weather change: indoor alternatives, cold-weather preparation, after-dark checks and verified fall 2026 events.
+
+Is Rucking Bad for Your Back? What the Science Says
+
+Learn how load, pack fit, training volume, and existing back conditions affect spinal stress during recreational rucking.
+
+Hill Ruck Training: Elevation Workouts for Every Terrain
+
+How to add hills to a rucking week: uphill and downhill form, five hill and stair workouts, treadmill and garage options for flat areas, and how to progress safely.

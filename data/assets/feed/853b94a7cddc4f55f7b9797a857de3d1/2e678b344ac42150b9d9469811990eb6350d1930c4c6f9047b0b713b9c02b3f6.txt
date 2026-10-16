@@ -1,0 +1,47 @@
+Deals
+
+About
+
+Categories
+
+Archives
+
+Tactical Fanboy
+
+Email
+
+Advertise Sale Upload
+
+Cart
+
+Arkeus’ Warden Hyperspectral Optical Radar Enters Australian Army Service
+
+Arkeus is pleased to confirm its Warden Hyperspectral Optical Radar (HSOR) will enter service with the Australian Army to provide comprehensive wide-area domain awareness for the Army’s Integrator UAS as a part of the Tactical Uncrewed Aerial System (TUAS) Program, strengthening Army’s ability to generate complete domain awareness across land and littoral environments.
+
+The capability will support Army commanders to detect, understand and respond across larger areas of the battlespace, improving situational awareness and contributing to decision superiority in complex operating environments.
+
+Following down-selection in November 2025, where Warden outperformed advanced sensing technologies from around the world, Arkeus has worked closely with the Australian Army and Insitu Pacific to rapidly integrate, test and validate the Warden on the Australian Army Integrator UAS.
+
+With the completion of that process, the Australian Army is pleased to confirm acquisition of the first tranche of Warden systems for deployment with the Army’s (TUAS), being delivered and sustained by Insitu Pacific.
+
+COL Joel Domigan from Headquarters Army Aviation Command outlined that the acquisition is part of the Australian Army’s TUAS Program to support tactical level intelligence, surveillance and reconnaissance requirements of Army’s Combat Brigades.
+
+“The introduction of Warden enhances Army’s ISR posture by providing persistent, wide-area surveillance from the Integrator platform. It enables commanders to extend their situational awareness, shorten decision cycles, and maintain operational advantage across land and littoral domains. This wide-area sensing capability is a key enabler that enhances Army’s ability to operate effectively in a contested environment,” said COL Domigan.
+
+Arkeus CEO and co-founder, Simon Olsen, said: “We’re honoured to deliver Warden to the Australian Army and provide capability that can help Australian soldiers on the ground gain a far more comprehensive understanding of the battlespace, in a much shorter time frame.
+
+“Warden brings together wide-area, real time, hyperspectral optical sensing that is powered by our ARK artificial intelligence orchestration and data fusion software. This combination enables the Integrator to be able to autonomously detect, classify, locate and track objects in real time, and over wide areas, extending the area of coverage from each platform in the land, littoral and maritime domains. Warden delivers a disruptive speed and precision of decision making in the most challenging operating environments.
+
+“During testing and integration, Warden demonstrated its ability to perform in challenging and degraded conditions, by day and night, where conventional optical systems can struggle. It is purpose-built for high-tempo operations, contested operations and the growing role of autonomous systems in modern defence,” said Olsen.
+
+Warden will be mounted on Insitu Pacific Integrator Uncrewed Aerial Systems (UAS). Arkeus has been collaborating with Insitu Pacific for a number of years to bring enhanced domain awareness to their Integrator Air Vehicles. Andrew Duggan, Managing Director of Insitu Pacific said: “Integrator’s range, endurance and mission flexibility make it well suited to persistent surveillance across land and maritime environments. Arkeus’ Warden HSOR payload adds a powerful wide-area sensing layer to the platform, combining hyperspectral collection with onboard AI processing to support Army’s ISR requirements.
+
+“As we continue to build sovereign capability here in Australia to sustain and grow Integrator’s capability for Army under the Australian Army’s TUAS program, the successful integration of Warden in partnership with Arkeus has clearly demonstrated how rapidly we can field cutting edge capabilities. The Integrator is a flexible and proven platform, purpose built for complex missions and this effort has clearly demonstrated its readiness to be paired with advanced Australian sensing technology like Warden,” said Duggan.
+
+Warden is the world’s first, real time, wide-area, hyperspectral ISR sensor for Tactical Uncrewed Aircraft System (TUAS). Whereas current sensing hardware is designed for a human operator, Warden is specifically built for AI. This means it is not restricted by human limitations. Its Hyperspectral Optical Radar can see significantly further than comparable alternatives. Warden employs an edge-based AI orchestration and data fusion engine, ARK, operating on the sensor itself to be able to contextually understand the environment and rapidly detect, classify, locate and track objects within the area of operation, all in real time.
+
+This entry was posted on Wednesday, October 14th, 2026 at 22:00 and is filed under International, Optics, Press Release. You can follow any responses to this entry through the RSS 2.0 feed. You can skip to the end and leave a response. Pinging is currently not allowed.
+
+Leave a Reply
+
+We reserve the right to refuse advertising to anyone Entries (RSS) and Comments (RSS). Soldier Systems Daily is in no way affiliated with the US Government. Copyright © Soldier Systems Daily 2008-2021. All Rights Reserved.

@@ -1,0 +1,20 @@
+{
+  "stage": "create_series",
+  "status": "needs_repair",
+  "message": "the briefs failed their evidence checks; see the create_briefs receipt in runs/run-20261015T135930Z/logs",
+  "steps": [
+    "select_items=0",
+    "create_briefs=1"
+  ],
+  "started_at": "2026-10-15T15:27:47Z",
+  "finished_at": "2026-10-15T15:35:09Z",
+  "tools": [
+    "bash"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": [
+    "create_briefs=1"
+  ]
+}

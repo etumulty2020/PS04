@@ -1,0 +1,21 @@
+{
+  "stage": "filter_items",
+  "status": "completed",
+  "input_count": 391,
+  "output_count": 228,
+  "excluded_count": 163,
+  "exclusion_reasons": {
+    "outside_window": 163
+  },
+  "window_start": "2026-09-16",
+  "window_end": "2026-10-15",
+  "started_at": "2026-10-15T12:15:14Z",
+  "finished_at": "2026-10-15T12:15:14Z",
+  "tools": [
+    "jq"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

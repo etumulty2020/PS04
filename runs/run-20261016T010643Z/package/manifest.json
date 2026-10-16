@@ -1,0 +1,55 @@
+{
+  "run_id": "run-20261016T010643Z",
+  "review_id": "8f613fa04ea19981c0d25d9022d034d7398543ec559dc3bc739f91bf79e5b872",
+  "approved_by": "Erin Tumulty",
+  "published": false,
+  "assets": [
+    {
+      "piece_id": "01",
+      "type": "articles",
+      "path": "runs/run-20261016T010643Z/package/articles/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "video_scripts",
+      "path": "runs/run-20261016T010643Z/package/video_scripts/01.md"
+    },
+    {
+      "piece_id": "01",
+      "type": "sources",
+      "path": "runs/run-20261016T010643Z/package/sources/01.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "articles",
+      "path": "runs/run-20261016T010643Z/package/articles/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "video_scripts",
+      "path": "runs/run-20261016T010643Z/package/video_scripts/02.md"
+    },
+    {
+      "piece_id": "02",
+      "type": "sources",
+      "path": "runs/run-20261016T010643Z/package/sources/02.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "articles",
+      "path": "runs/run-20261016T010643Z/package/articles/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "video_scripts",
+      "path": "runs/run-20261016T010643Z/package/video_scripts/03.md"
+    },
+    {
+      "piece_id": "03",
+      "type": "sources",
+      "path": "runs/run-20261016T010643Z/package/sources/03.md"
+    }
+  ],
+  "manual_steps": "runs/run-20261016T010643Z/package/MANUAL_STEPS.md",
+  "publication_links": "runs/run-20261016T010643Z/package/publication_links.json"
+}

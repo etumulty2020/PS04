@@ -1,0 +1,170 @@
+{
+  "run_id": "run-20261015T041643Z",
+  "as_of_date": "2026-10-15",
+  "mode": "live",
+  "status": "failed",
+  "counts": {
+    "discovered": 226,
+    "duplicate_observations": 0,
+    "extracted": 154,
+    "new": 2,
+    "changed": 9,
+    "unchanged": 143,
+    "eligible": 154,
+    "excluded": 68,
+    "accepted": 34,
+    "rejected": 102,
+    "deferred": 18,
+    "articles": null,
+    "video_scripts": null
+  },
+  "coverage": {
+    "collected": {
+      "by_kind": {
+        "feed": 166,
+        "podcast": 60
+      },
+      "independent_publishers": 14,
+      "by_publisher": {
+        "ruckauthority": 50,
+        "treelinereview": 20,
+        "rokslide": 18,
+        "kitbadger": 10,
+        "soldiersystems": 6,
+        "nra": 50,
+        "accurateshooter": 10,
+        "prb": 10,
+        "vortex": 12,
+        "exomtngear": 8,
+        "backcountry_hunting_podcast": 8,
+        "valleytopeak": 8,
+        "wolf": 8,
+        "prs": 8
+      }
+    },
+    "eligible": {
+      "by_kind": {
+        "feed": 140,
+        "podcast": 14
+      },
+      "independent_publishers": 13,
+      "by_publisher": {
+        "ruckauthority": 50,
+        "treelinereview": 20,
+        "rokslide": 7,
+        "kitbadger": 1,
+        "soldiersystems": 6,
+        "nra": 44,
+        "accurateshooter": 11,
+        "prb": 2,
+        "vortex": 1,
+        "exomtngear": 3,
+        "backcountry_hunting_podcast": 2,
+        "wolf": 2,
+        "prs": 5
+      }
+    },
+    "accepted": {
+      "by_kind": {
+        "feed": 25,
+        "podcast": 9
+      },
+      "independent_publishers": 8,
+      "by_publisher": {
+        "ruckauthority": 6,
+        "treelinereview": 14,
+        "rokslide": 3,
+        "nra": 3,
+        "vortex": 1,
+        "exomtngear": 3,
+        "backcountry_hunting_podcast": 2,
+        "prs": 2
+      }
+    }
+  },
+  "problem_stages": [
+    {
+      "stage": "collect_sources",
+      "status": "incomplete",
+      "errors": [
+        "fetch_youtube=1",
+        "extract_content=1"
+      ]
+    },
+    {
+      "stage": "create_briefs",
+      "status": "needs_repair",
+      "errors": [
+        "expected briefs 01, 02, 03; got []",
+        "series cites no feed evidence; all three input types must contribute",
+        "series cites no youtube evidence; all three input types must contribute",
+        "series cites no podcast evidence; all three input types must contribute",
+        "no briefs in the reply (saved in runs/run-20261015T041643Z/logs/create_briefs-reply.json)"
+      ]
+    },
+    {
+      "stage": "create_series",
+      "status": "needs_repair",
+      "errors": [
+        "create_briefs=1"
+      ]
+    },
+    {
+      "stage": "extract_content",
+      "status": "incomplete",
+      "errors": [
+        "feed:https://kitbadger.com/ramen-chronicles-2-1/?utm_source=rss&utm_medium=rss&utm_campaign=ramen-chronicles-2-1: page has under 100 words of text",
+        "feed:https://kitbadger.com/flash-mitigation-part-11-ab-suppressors-a-10-5-56/?utm_source=rss&utm_medium=rss&utm_campaign=flash-mitigation-part-11-ab-suppressors-a-10-5-56: page has under 100 words of text",
+        "feed:https://kitbadger.com/lems-primal-eco/?utm_source=rss&utm_medium=rss&utm_campaign=lems-primal-eco: page has under 100 words of text",
+        "feed:https://kitbadger.com/burn-proof-gear-suppressor-covers/?utm_source=rss&utm_medium=rss&utm_campaign=burn-proof-gear-suppressor-covers: page has under 100 words of text",
+        "feed:https://kitbadger.com/finnish-brutality-2026/?utm_source=rss&utm_medium=rss&utm_campaign=finnish-brutality-2026: page has under 100 words of text"
+      ]
+    },
+    {
+      "stage": "fetch_youtube",
+      "status": "incomplete",
+      "errors": [
+        "ruckauthority_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "goruck_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "eberlestock_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "longshot_tactical: download failed: curl: (56) The requested URL returned error: 404",
+        "eastmans_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "vortex_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "gatorz_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "mountainsmullets_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "truththenfreedom_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "coldharbour_yt: download failed: curl: (56) The requested URL returned error: 404",
+        "huntfishshoot_yt: download failed: curl: (56) The requested URL returned error: 404"
+      ]
+    }
+  ],
+  "elapsed_seconds": 2824.0,
+  "models": [
+    "codex-configured-default",
+    "mlx-community/whisper-large-v3-turbo"
+  ],
+  "tools": [
+    "bash",
+    "codex",
+    "curl",
+    "ffmpeg",
+    "jq",
+    "python3",
+    "yt-dlp"
+  ],
+  "cost": {
+    "known_usd": 0,
+    "includes_estimates": false,
+    "unknown_cost_stages": [
+      "create_briefs",
+      "select_items"
+    ]
+  },
+  "review_passed": null,
+  "approval": null,
+  "published_links": null,
+  "remaining_manual_actions": [
+    "Fix the failed steps listed in problem_stages, then rerun them and the content checks.",
+    "After publishing, fill in package/publication_links.json."
+  ]
+}

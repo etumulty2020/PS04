@@ -1,0 +1,12 @@
+{
+  "review_id": "8f613fa04ea19981c0d25d9022d034d7398543ec559dc3bc739f91bf79e5b872",
+  "passed": true,
+  "issues": [
+    {
+      "artifact": "all",
+      "piece_id": null,
+      "severity": "warning",
+      "message": "Human review required: check that interpretations are sound, sponsorships are disclosed, and uncertainty is stated honestly."
+    }
+  ]
+}

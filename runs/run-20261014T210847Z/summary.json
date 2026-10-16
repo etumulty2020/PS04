@@ -1,0 +1,78 @@
+{
+  "run_id": "run-20261014T210847Z",
+  "as_of_date": "2026-10-14",
+  "mode": "live",
+  "status": "failed",
+  "counts": {
+    "discovered": 385,
+    "duplicate_observations": 0,
+    "extracted": 174,
+    "new": 0,
+    "changed": 0,
+    "unchanged": 0,
+    "eligible": null,
+    "excluded": 139,
+    "accepted": null,
+    "rejected": null,
+    "deferred": null,
+    "articles": null,
+    "video_scripts": null
+  },
+  "coverage": {
+    "collected": {
+      "by_kind": {
+        "feed": 166,
+        "youtube": 159,
+        "podcast": 60
+      },
+      "independent_publishers": 23,
+      "by_publisher": {
+        "ruckauthority": 59,
+        "treelinereview": 20,
+        "rokslide": 18,
+        "kitbadger": 10,
+        "soldiersystems": 6,
+        "nra": 50,
+        "accurateshooter": 10,
+        "prb": 10,
+        "goruck": 15,
+        "eberlestock": 15,
+        "longshottactical": 15,
+        "eastmans": 15,
+        "vortex": 27,
+        "gatorz": 15,
+        "mountainsmullets": 15,
+        "truththenfreedom": 15,
+        "coldharboursupply": 15,
+        "huntfishshoot": 15,
+        "exomtngear": 8,
+        "backcountry_hunting_podcast": 8,
+        "valleytopeak": 8,
+        "wolf": 8,
+        "prs": 8
+      }
+    },
+    "eligible": null,
+    "accepted": null
+  },
+  "problem_stages": [],
+  "elapsed_seconds": 12.0,
+  "models": [],
+  "tools": [
+    "curl",
+    "jq",
+    "python3"
+  ],
+  "cost": {
+    "known_usd": 0,
+    "includes_estimates": false,
+    "unknown_cost_stages": []
+  },
+  "review_passed": null,
+  "approval": null,
+  "published_links": null,
+  "remaining_manual_actions": [
+    "Fix the failed steps listed in problem_stages, then rerun them and the content checks.",
+    "After publishing, fill in package/publication_links.json."
+  ]
+}

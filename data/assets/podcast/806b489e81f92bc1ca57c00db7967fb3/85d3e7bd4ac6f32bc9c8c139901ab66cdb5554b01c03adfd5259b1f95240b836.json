@@ -1,0 +1,1166 @@
+[
+ {
+  "segment_id": "s-0001",
+  "start_seconds": 0.0,
+  "end_seconds": 36.56,
+  "text": "Welcome to the Vortex Nation podcast brought to you by lovers of hunting, shooting, public lands, the Second Amendment, and good food. What is up, everybody? Mark on the mic. Mr. Rob Morrell from our product development team, middled to my right and further to my right. We have Mr. Ryan Muckinhearn across the table from us. Very special guest, Mr. James Williamson from the great company H&K."
+ },
+ {
+  "segment_id": "s-0002",
+  "start_seconds": 36.68,
+  "end_seconds": 71.64,
+  "text": "We also have Mr. Tommy Brooker, also from the great company H&K. And gentlemen, like we've brought you here today, we've brought our optics and your pistols together. And I tell you what, it is a match made in heaven. That's what we're going to talk about today. We're going to talk about these optics pistols, packages, fit, features, functionality, all the good things that go into both. And a little bit of the story of how we got here today and the dev process, Rob."
+ },
+ {
+  "segment_id": "s-0003",
+  "start_seconds": 71.8,
+  "end_seconds": 107.64,
+  "text": "Sure. So this is going to be a fun one. Yeah. Even pre-casting, you guys were talking and I'm like, oh, we got some good stuff here. You always, you don't, I'm not surprised, but just the information that I get from our brief conversations, I'm like, oh, this is good stuff. This is stuff people need to know. Sure. People want to know, Rob. Yeah. Happy to talk about it. So, awesome. Well, James, let's talk a little bit about these pistols. I mean, HK, you guys have a rich history of just top-notch engineering and production."
+ },
+ {
+  "segment_id": "s-0004",
+  "start_seconds": 108.26,
+  "end_seconds": 143.1,
+  "text": "These pistols are no exception. So let's talk a little bit about them. Yeah. So these pistols we have here are all of our current optics-capable pistols that we have on the market. So our two micro-compact models, the CC9 and the VP9CC, and then our full-size family within the VP9 family. So we've got a full range that we'll go over specifically. But here on the table, you have your VP9K, your compact tactical model, and then the VP9 long slide model as well."
+ },
+ {
+  "segment_id": "s-0005",
+  "start_seconds": 143.1,
+  "end_seconds": 173.22,
+  "text": "And so this gives our customer base multiple options for whether they want something for carry, for home defense, for outdoor activities, for competition use, for more of a tactical law enforcement, military-type role. There is a pistol for you in that family. And that's what I really like is it's not the old days anymore where it was just a one-size-fits-all opportunity."
+ },
+ {
+  "segment_id": "s-0006",
+  "start_seconds": 173.22,
+  "end_seconds": 203.24,
+  "text": "We now have the ability to offer something specific for that customer's requirements. And then within that, you'll see as we get into some of the features on these guns, really the modularity to customize that pistol to your specific hand size so that it really fits you. And that's what's great is, you know, in the past you have a gun and you're trying to teach your wife how to shoot, and this gun is too big for her. And that's just the way it is."
+ },
+ {
+  "segment_id": "s-0007",
+  "start_seconds": 203.32,
+  "end_seconds": 243.28,
+  "text": "Well, now you have the ability to customize those kind of grip sections to be able to say on the fly, on the range, okay, here I'm going to set it up exactly for you, and then I can set it back up for me. But really, everything we've seen as technology has increased, optics are not the exception anymore. They're now the rule that it's a rare sight when we go to a training class or we see somebody who doesn't have an optic on their pistol. So it's taken a long time to get the technology to meet the reliability that we needed, and we'll talk definitely about why we selected the Vortex optics here to match on there."
+ },
+ {
+  "segment_id": "s-0008",
+  "start_seconds": 243.52,
+  "end_seconds": 275.76,
+  "text": "But now there is no question that you are going to be a far more capable shooter with an optic on your pistol than you would without. You know, I grew up in the days of iron sights, and I pride myself in the amount of time and effort I took to learning how to shoot well with that. But there is no question I am a faster, more efficient, more capable shooter with a quality optic on my pistol. So it's really exciting to get to offer this now to the customer base. And what I think we're going to showcase here is the strength of both of our brands, and really I'm a huge why guy."
+ },
+ {
+  "segment_id": "s-0009",
+  "start_seconds": 275.76,
+  "end_seconds": 306.26,
+  "text": "So the why behind this, because the average customer, they go into the gun store, they go to buy their pistol, they don't know that. Why is this optic on this pistol instead of any number of other ones? I hope at the end of this podcast you guys will figure out, oh, we all know what we're doing, and we gave you what you really want, even if you don't really know walking into that purchase. But that's the case. Yeah, I think providing the why behind anything is so critical."
+ },
+ {
+  "segment_id": "s-0010",
+  "start_seconds": 306.5,
+  "end_seconds": 343.7,
+  "text": "And when we were chatting in a previous podcast yesterday, which I suggest if any person hasn't listened to, turn back the clock and listen to that because it is a fantastic podcast about a variety of, I would say, iconic, rare, really cool H&K firearms. But one thing you mentioned several times is that you guys are your problem solvers. You start with the problem and work back from there, and we certainly have a variety of problem solvers on the table here, and I'm excited to talk about them. Can we go into some of the specific features of these pistols and maybe some of the differences between each one"
+ },
+ {
+  "segment_id": "s-0011",
+  "start_seconds": 343.7,
+  "end_seconds": 374.84,
+  "text": "and the why behind it might be the right pick for a certain individual? Yeah, let me do that. Before I pass that to Tommy to kick off the first one, let me talk really about the problem-solving portion of that. We might have touched on it before a little bit, but really the challenge of why it took so long for optics to go on pistols. As we know, you guys know far better than I do, the technology that it takes to take a rifle-sized optic, red dot in this case,"
+ },
+ {
+  "segment_id": "s-0012",
+  "start_seconds": 375.02,
+  "end_seconds": 410.48,
+  "text": "and it has to do all these things, just like a pistol has to do an eight-step cycle of operation reliably. We shrink it down and make it smaller. It still has to do all those things, but now I lost real estate. It becomes more challenging to fit all of those things in there. You've got battery life and all those other related challenges on there, and then on a rifle, okay, the rifle is stable. You've got a solid receiver that you're locked on on these pistols. You've got a slide that is reciprocating back and forth on there. You have less of a \u2013 I don't have a big, gigantic picatinny mount that I can lock this thing down with this big throw lever."
+ },
+ {
+  "segment_id": "s-0013",
+  "start_seconds": 410.6,
+  "end_seconds": 449.52,
+  "text": "Now I've got small little screws that are mounted into a receiver, maybe with some small little bosses or interfaces to hold it in place. There's just a greater challenge to ask of an optics company to be able to have that same kind of reliability standard. So really the problem-solving for this is how do we, as H&K, who is known for having incredibly reliable and durable firearms that are going to be able to take everything that you can throw at them and more and still keep running, how do we pair that with an optic and be able to say, yes, this optic is going to live up to those same standards that we have."
+ },
+ {
+  "segment_id": "s-0014",
+  "start_seconds": 449.88,
+  "end_seconds": 488.56,
+  "text": "That's been the real challenge. And you're in the business of optics. You understand this and what the competitors are. You know the challenges that it takes, and we'll talk about today. To get to where you are today, that is not an easy task. And there's a lot of options out there that do not live up to the standards of where we are. So that's really kind of the problem that we started out with. And the real challenge for us as we looked at this was this was not just a slam dunk of, well, I'm just going to blindly grab this optic and throw it on this gun, and it's going to be the solution we needed. So this was a pretty exhaustive selection process for us as we looked going into this year and updating our product line."
+ },
+ {
+  "segment_id": "s-0015",
+  "start_seconds": 489.26,
+  "end_seconds": 520.32,
+  "text": "Within our product development section, I think we tested 20 different optics to select from and looked at a range of qualification standards to do that. And the fact that what you see here on the table today is what we selected should hopefully speak volumes to the customer base about, okay, we've picked the right one. But, yeah, so super excited. Can't say enough great things about your product, but I'm going to allow you to say great things about your product when we get to that portion."
+ },
+ {
+  "segment_id": "s-0016",
+  "start_seconds": 520.5,
+  "end_seconds": 554.46,
+  "text": "But I'll let Tommy talk first about this here, our CC9 pistol, which is our new micro-compact 9mm. Yeah, so with the HKCC9, this is actually the first U.S. designed and manufactured product for Heckler & Koch. So this particular product actually launched a new branding, per se, of HK, which is now known as HKUSA. So completely designed, manufactured, all the development, industrialized here in the U.S."
+ },
+ {
+  "segment_id": "s-0017",
+  "start_seconds": 554.46,
+  "end_seconds": 585.76,
+  "text": "So, and if you would have asked me, you know, 10 years ago that, hey, HK's going to be making some handgun stateside, I would have said, man, HK Germany's never going to allow that to happen, right? So I think that speaks volumes for the amount of trust and the amount of faith that they have in, you know, our leadership here in the U.S. So with the HKCC9, to date, this is the smallest pistol HK's ever manufactured. But, you know, in saying that, it's not the smallest micro-compact out there."
+ },
+ {
+  "segment_id": "s-0018",
+  "start_seconds": 586.2,
+  "end_seconds": 617.98,
+  "text": "Anybody can make a small gun, right? But you want to make a gun that's small enough to where you can easily conceal, but you want to make it large enough to where it's easy to shoot, right? So the amount of R&D and testing with the CC9, I mean, it dates back, I don't know, probably eight or nine years now. It's been out for about a year and a half, but whenever we launched, it was about eight years from, you know, the time of the initial design to the time of the, you know, actual launch of the pistol."
+ },
+ {
+  "segment_id": "s-0019",
+  "start_seconds": 618.2,
+  "end_seconds": 653.0,
+  "text": "So this particular model right here is the model that's outfitted with the Defender CCW. So this is our optics-equipped package. We have optics-ready packages as well. So you're going to get, right out of the box, you're going to get full ambidextrous features, just like you do with any other HK product. You're going to get a Picatinny rail up front. To me, one of the coolest things about the CC9, at the time of the release, we were actually the only manufacturer who had adjustable back straps for micro-compact pistols."
+ },
+ {
+  "segment_id": "s-0020",
+  "start_seconds": 653.0,
+  "end_seconds": 684.26,
+  "text": "So, and this kind of goes back to, you know, you want a small gun that's going to shoot and function like a big gun. The overall length of pull with the large back strap is the same exact length of pull as the VP9 casing right over there. No kidding. Yeah. So you've got to think, I mean, a lot of people aren't going to the range and shooting, you know, 1,000 rounds out of a micro-compact during a training session. But, I mean, if you were, I'm going to shoot one that's pretty comfortable, right? I'm going to shoot one that's not going to, after every three or four rounds,"
+ },
+ {
+  "segment_id": "s-0021",
+  "start_seconds": 684.28,
+  "end_seconds": 716.68,
+  "text": "I've got to adjust my grip or fidget around or anything like that. So just the overall ergonomics of the CC9, to me, is what puts it in, you know, just that next level for micro-compact. But with the CC9 being manufactured here in the U.S., it was still subjected to the same amount of testing and durability and reliability, the same overall, you know, global standards as any other firearm manufactured in Germany. So we're definitely super excited about this one."
+ },
+ {
+  "segment_id": "s-0022",
+  "start_seconds": 717.02,
+  "end_seconds": 751.58,
+  "text": "Again, it's got fully ambidextrous features. You get a flush fit 10-rail magazine. You get a pinky extension 12-rail magazine. To me, this is probably the softest shooting and most capable micro-compact out there on the market for sure. Yeah. Yeah, and I'll add into some of what Tommy's told you on there. I think first off, again, from that whole problem-solving thing, what I had found, and I'm sure you guys have had similar experiences with, when you had previous small guns, whether you call them mouse guns, now we call them micro-compacts,"
+ },
+ {
+  "segment_id": "s-0023",
+  "start_seconds": 752.08,
+  "end_seconds": 782.5,
+  "text": "there were some significant challenges to those. One of them, they were usually not fun to shoot. They would often be simple blowback-operated guns. So you've got this snappy recoil. Because they're really tiny, I can't really get my whole hand on the gun. My trigger finger placement is way off on the fundamentals of marksmanship. The sights are like an afterthought, if they even exist. There were all kinds of issues. They weren't reliable. I would see students who would come to a training course using a standard-sized gun,"
+ },
+ {
+  "segment_id": "s-0024",
+  "start_seconds": 782.7,
+  "end_seconds": 813.8,
+  "text": "and then we'd take a break for lunch, and they'd say, hey, James, can I shoot my mouse gun? This is my pocket carry gun, or whatever it would be. And I'd watch them go down, and they would have to completely change what they were doing and everything that we had just practiced and perfected in the morning block, and then they wouldn't have the effect they wanted. Or they'd go to shoot one hand, and the gun wouldn't work. All those types of things. So I knew when we got into this that we had to solve that. So we gave ourselves three main challenges. We had to make it shootable. We had to make it reliable. And we needed to make it concealable."
+ },
+ {
+  "segment_id": "s-0025",
+  "start_seconds": 814.14,
+  "end_seconds": 846.26,
+  "text": "The concealable part comes with it being small. But the shootable and reliable thing means, okay, well, it has to, the reliability has to stand up to the same levels of endurance that the rest of our products was. So we couldn't skimp on that. We say made in the USA. It doesn't mean that we're somehow not using the same equipment. It's the same technologies and equipment that come from Germany. Those same skill sets are brought over for us to do that. But for reliability, like we mentioned before, it still has to do an eight-step cycle of operation. But now I have less real estate."
+ },
+ {
+  "segment_id": "s-0026",
+  "start_seconds": 846.26,
+  "end_seconds": 878.26,
+  "text": "So that recoil spring assembly that's very big and robust inside this full-size gun, now I have to find a way to do it even smaller. I have to eliminate that snappy recoil. So how do I create more of a continuous recoil management system in a small gun on that cycle? How do I take something that in a larger pistol has larger dimensions and strength in the individual components? Well, we use a chassis system and we give strength to the overall system. Kind of like the strength of the wolf is the pack."
+ },
+ {
+  "segment_id": "s-0027",
+  "start_seconds": 878.76,
+  "end_seconds": 909.26,
+  "text": "Now you have a smaller extractor and a smaller ejector and all these different things. But because the chassis is there, it all reinforces those things. So there was a lot of time and development that went into making sure that it wasn't just a small gun or the smallest gun on the market, but that it was just small enough to still be able to do all the things we needed to do. And Tommy mentioned this kind of eight-year cycle. We've got a great story about this too, which I think really separates our mindset from the company. And we've had conversations."
+ },
+ {
+  "segment_id": "s-0028",
+  "start_seconds": 909.4,
+  "end_seconds": 939.68,
+  "text": "I think you guys fall in the same way of this. It's been about five years on the development. And I remember I got a call and I'm like, hey, we need you to come down. We're going to do this kind of like soft launch feedback event where we brought in all of these industry, you know, article writers and YouTube personalities and trusted brand ambassadors. And we brought them all to one site. And we did a kind of a release of the CC9. And they all got to shoot it and give us their feedback."
+ },
+ {
+  "segment_id": "s-0029",
+  "start_seconds": 940.04,
+  "end_seconds": 973.46,
+  "text": "And I remember doing that and standing there with Tommy and going, this thing's, you know, it's pretty good. But HK being H&K, we looked at this and took that feedback and went back. And then we've spent another three years of development before we finally released that. And this is for a few reasons. One, we knew that being the first HKUSA project, it was a no-fail thing. We could not come out of the gate and have this be a flop because you'd never live back up to it. There's so many examples of other companies that have come over from Europe and set up here."
+ },
+ {
+  "segment_id": "s-0030",
+  "start_seconds": 973.54,
+  "end_seconds": 1005.08,
+  "text": "And then people aren't happy with the quality of the overall product. And B, we have always been a company that is not driven by, oh, well, we got to get something for shot show release. It's about the product being right, not right now. And it wasn't right for us. It wasn't good enough. We're not a good enough company. So we kept that bar incredibly high in order to do that. And even though I know there was financial issues, as there would be here, like, hey, we were really counting on this release and in this quarter and getting that money back."
+ },
+ {
+  "segment_id": "s-0031",
+  "start_seconds": 1006.22,
+  "end_seconds": 1045.22,
+  "text": "I credit our leadership to say, you know what, we're going to stay the course and we're going to continue to develop this until we know that it's right. And then we're going to put it out there. And the testing, you've probably seen, and the viewers may have seen some of the, you know, footage of H&K products being tested in the past. We have, you know, we freeze them and shoot them. We put them in heat environments. We put them in mud and sand and salt water and all these different environments to make sure that they operate. And the worst case scenarios for this, we actually created a whole nother testing cycle because it's a concealed carry gun carried inside the waistband."
+ },
+ {
+  "segment_id": "s-0032",
+  "start_seconds": 1045.38,
+  "end_seconds": 1078.6,
+  "text": "Most often we created a lint test. So I was just about to joke about pocket lint and here we are. Yep. So we actually had, it looks like a cement mixer and everybody was told, hey, go home and go to your dryer and pull out all your dryer lint and bring it into work the next day. And you throw that in there and test to see how is it going to do when it dries all of the lubrication out of the weapon. And now you have all this in there and go back and do that. So the testing wasn't just here at HK USA. It went back to Germany. It had to meet their expectations as well."
+ },
+ {
+  "segment_id": "s-0033",
+  "start_seconds": 1078.6,
+  "end_seconds": 1108.82,
+  "text": "So I guess the credit going to the company of saying that we just knew that this pistol had to live up to those same standards of that. So I'm super proud of what you have in this capability. Incredibly easy gun to shoot. We had done some courses upon the launch of this where we deliberately set up the personnel that were going to be introduced to this. And they ran a VP9 course in the morning block."
+ },
+ {
+  "segment_id": "s-0034",
+  "start_seconds": 1108.96,
+  "end_seconds": 1140.0,
+  "text": "So they learned how to shoot a full-size gun. Super confident. And then in the afternoon block, they were going to come do CC9. And I could hear them as they were putting their holsters on and, you know, standing around the table getting their gear ready. They were, I don't know, man. I don't know if this micro-compact pistol is going to live up. That VP9 is such a good gun and it's so easy to shoot. You know, 10 minutes into there, like, this thing is so great. You know, now I don't feel like I'm compromised. I'm not taking a step back. I'm not giving up some great capability to go down to a pistol that is easier to carry."
+ },
+ {
+  "segment_id": "s-0035",
+  "start_seconds": 1140.9,
+  "end_seconds": 1173.0,
+  "text": "And that's what we really wanted to be able to do. And for me, I kind of go back to this overall kind of mindset. We all want to have an everyday carry type gun. And, you know, you'll see people posting, here's my EDC dump and it's this picture or whatever. And I'll even, we'll do training courses that you'll go to where it's supposed to be your EDC course. And I'll see guys show up with these gigantic guns. And I'm like, there's no way that is the gun that you carry every day. When your wife says at 9 o'clock, hey, honey, we're out of milk. You got to run up to the grocery store and get milk for the kid's cereal the next morning."
+ },
+ {
+  "segment_id": "s-0036",
+  "start_seconds": 1173.28,
+  "end_seconds": 1205.32,
+  "text": "Are they really strapping on this gun with this, you know, gigantic compensator and this jet funnel magazine extension? No, they're probably not going with anything or they're sticking, you know, a J frame in their pocket or something like that. So I'm a realist. I understand that we make comfort-based decisions, you know, as humans. And if something is cumbersome, if something is just not fun or comfortable to carry, well, then I'm just going to make that comfort-based decision. I'm not going to do it. This pistol's really changed my mind on that."
+ },
+ {
+  "segment_id": "s-0037",
+  "start_seconds": 1205.48,
+  "end_seconds": 1239.62,
+  "text": "There have been so many times where I have not had a larger type pistol because it just didn't fit with what I was wearing that day, the environment. I'm sitting in the car or whatever that is. That pistol, again, with the right holster has been something that I've literally forgotten that I've had on there. I don't have to get up and, like, shift the weight. I've walked in several times like, oh, yeah, it's right here. So to me, introducing the CC9, the VP9CC, I now have a pistol that I have no excuse not to carry, and I can carry it confidently because I know it's reliable, shootable, and concealable."
+ },
+ {
+  "segment_id": "s-0038",
+  "start_seconds": 1239.82,
+  "end_seconds": 1281.4,
+  "text": "So for us, I think it's really been a super popular item. We literally can't make them fast enough. It's a great problem to have as a company. But it has been massively popular, and the people that have transitioned from a larger gun to these have really become believers. There's definitely a role on why you would want a larger gun, but in a lot of cases, this is all the gun that you really need for this type of environment. So, yeah, super proud of the CC9. And just to, you know, kind of piggyback off what James was saying, I mean, just this little undercut right here went through seven different revisions before we finally said, hey, that's right."
+ },
+ {
+  "segment_id": "s-0039",
+  "start_seconds": 1282.1,
+  "end_seconds": 1312.64,
+  "text": "I mean, I think it was something like 800,000 rounds is what went through this development and testing cycle before the CC9 was ready to be launched. So, I mean. We sweat the details and make sure that it goes through those efforts. Yeah, on that day, that could presumably be the, you know, the worst day of your life. If I knew I was going to get in a gunfight that day, I'd probably leave the house with some sort of battle rifle or some, you know, fully sized rifle, right, or fully sized pistol."
+ },
+ {
+  "segment_id": "s-0040",
+  "start_seconds": 1313.86,
+  "end_seconds": 1349.54,
+  "text": "But, I mean, for, you know, that particular day, I mean, if I'm carrying a concealed gun, this is the most capable one on the market for sure. Yeah. Yeah. Well, I think all of what you guys said is something that people have come to know, but it's still a very important story to tell that high standard that you hold yourselves to because it just gives people the confidence that they need to know, like, yep, this is going to be the tool that I need when I need it. And like you said, James, there's a reason why you have different models, different tools for different jobs or different circumstances."
+ },
+ {
+  "segment_id": "s-0041",
+  "start_seconds": 1349.92,
+  "end_seconds": 1389.08,
+  "text": "Like, you know, a full-size gun might be great for X, but like I said, you want to go to the store, grab some milk, but you still want to be able to defend your life or your family. Something else might be a better pick. So, yeah, that's cool, and it's really interesting to hear just all the development and work that went into the CC9 and, like you said, your guys' first foray into U.S. production. Yeah, we can definitely appreciate those dev cycle woes. You start that project, say, eight or nine years ago, the customer, you know, whatever the trend, what's in vogue, the sentiment about what a pistol should be changes, right?"
+ },
+ {
+  "segment_id": "s-0042",
+  "start_seconds": 1389.08,
+  "end_seconds": 1423.34,
+  "text": "And so you see those EDC dumps where you see like a VP9L, and it's got a funnel on it, and it's got a comp on it. I've watched the social norm change, and sometimes it sticks, and sometimes it goes away. There was a period of time there where there was almost like a subset of users or a group of users who were saying, like, this isn't the answer. What you want is 21 plus one and a flashlight and a bayonet and, you know, whatever else you can put on that thing."
+ },
+ {
+  "segment_id": "s-0043",
+  "start_seconds": 1424.08,
+  "end_seconds": 1459.26,
+  "text": "And I'm with you, like, practicality's out the window at that point. There's a couple of types of body types that work with that. There's a few garment choices. You're probably not sitting at a desk all day, and you're probably not driving a long commute. But to say, like, hey, the American concealed carry market or the home defense market or personal defense market is going to want this is a guess. And you hope that they do. And then you go through an eight-year dev cycle before you have a commercial release. You're putting a ton of faith or hope into that, but you're sticking with it, which I like."
+ },
+ {
+  "segment_id": "s-0044",
+  "start_seconds": 1459.26,
+  "end_seconds": 1493.46,
+  "text": "And to hear that it's an 800,000-round cycle and to know how long it takes to do 800,000 rounds and how many man hours and how many worn-out thumbs that is. You know, we haven't done that kind of stuff here, too. And that's, like, a huge testament to you guys and what you're, like, that forward thinking. And it's not planning for now. It's planning for a half a decade or more into the future and sticking with that investment of time and effort and resource into it and putting out a great product."
+ },
+ {
+  "segment_id": "s-0045",
+  "start_seconds": 1493.56,
+  "end_seconds": 1525.78,
+  "text": "I just, I think that's awesome. And, again, just knowing that that market is not volatile, but it changes. Like, the thought changes. You know, people are like, no, we want big or we want small. Yeah, within that time frame, when this originally started, this was a single-stack pistol. And then the feedback that we were getting as we reached out, because we don't just do this in a vacuum. As much as I like to think, I know everything about H&Ks and what H&K fans want. I want to interface. So what we were finding was, hey, we want more than an eight-round magazine capacity."
+ },
+ {
+  "segment_id": "s-0046",
+  "start_seconds": 1526.06,
+  "end_seconds": 1558.8,
+  "text": "So how do we do that? And so then we had to redesign the receiver in order to use a magazine that could have more capacity. So you're constantly adapting what those needs and requirements are to come out to the customer. But, yeah, massive amount of time. We'll talk when we get into optics portion about the amount of effort that we put into the testing on those. But, yeah, it definitely did not go unwasted. So that's our CC9. The next one up on the table is also a microcompact."
+ },
+ {
+  "segment_id": "s-0047",
+  "start_seconds": 1558.9,
+  "end_seconds": 1590.56,
+  "text": "This is our VP9 CC. And you might ask yourself, hey, James, why do we have two different microcompacts in here? And there's a couple reasons. First is because we know that customers like to have options. And they are both 9mm microcompact chassis-based guns, striker-fired weapons. The difference is the CC9 was designed, developed, and engineered at HKUSA, whereas the VP9 CC is an HK Germany project. It is based off of the VP9 series."
+ },
+ {
+  "segment_id": "s-0048",
+  "start_seconds": 1590.78,
+  "end_seconds": 1622.46,
+  "text": "So functionally, all the internal components, they're not the same. The parts don't cross over. But if you take the slide off and you look inside this slide and that slide, you go, oh, I see exactly same functionality, just smaller. You look inside this receiver and this receiver and say, oh, well, this is a chassis-based, but I can see everything's just smaller. So that functionality carries over. So for those customers who were already very comfortable with the VP9, maybe they've got several in their collection, the VP9 CC is a great crossover because it carries over all the same functionality and operation of it."
+ },
+ {
+  "segment_id": "s-0049",
+  "start_seconds": 1622.46,
+  "end_seconds": 1653.2,
+  "text": "And it was designed for that German market, whereas this is for our U.S. customer base. But once it's designed, we can bring it in. So what this gives you is the customer two different options. And just simply because this is made in the USA and this is made in Germany and we have tariffs and we have higher parts cost and labor costs in Germany, this is going to be at a higher price point. So we'll kind of get into the reason why we selected one optic for the next on there. But they perform very well."
+ },
+ {
+  "segment_id": "s-0050",
+  "start_seconds": 1653.32,
+  "end_seconds": 1685.52,
+  "text": "So while we're doing all this testing development, there was a lot of, you know, pick this gun up, shoot it, pick this gun up, shoot it, and really try and compare the two to against it. And I'll tell you quite honestly, it's really going to come down to your personal preference, which one you think you like better because they both shoot. They're both equally reliable. There's no real difference in performance or capability over either one, but it is great to have those two different options. I think one of the things you'll notice first off is our CC9 uses a push button magazine release that's ambidextrous,"
+ },
+ {
+  "segment_id": "s-0051",
+  "start_seconds": 1685.52,
+  "end_seconds": 1719.98,
+  "text": "so it can be actuated from either side. Whereas for our VP9CC, because our VP9s are all a paddle-based design, that's kind of a traditional HK Germany thing. They have an ambidextrous paddle magazine release. So for some people, that is the issue. I'm a very adaptable person from my training background, so I can run either one with no problem. But some people prefer one over the other. Both of them use either a 10-round flush fit magazine or a 12-round extended magazine. Both of them have, you know, a tritium front sight, blacked-out rear,"
+ },
+ {
+  "segment_id": "s-0052",
+  "start_seconds": 1720.14,
+  "end_seconds": 1750.22,
+  "text": "or you can do any number of all-black or tritium front and rear sights. So you have those same types of capabilities. It really comes down to your personal preference. And there's a little bit of a size difference. The VP9CC is just a little bit wider overall than the CC9 in its kind of narrow dimensions, but very much, you know, a similar capability with a different kind of price point and set."
+ },
+ {
+  "segment_id": "s-0053",
+  "start_seconds": 1750.36,
+  "end_seconds": 1781.58,
+  "text": "So this one launched here this year when we started out at the beginning of the program year. And it's been, again, another firearm that we just can't seem to make enough of. The micro-compact community, that everyday carry type role is very popular within the industry right now. So these are two excellent options for those customers. And it also, I mean, HK USA, I mean, we're still, you know, technically Heckler & Koch, right?"
+ },
+ {
+  "segment_id": "s-0054",
+  "start_seconds": 1781.58,
+  "end_seconds": 1814.46,
+  "text": "But there are some purists who want an HK firearm that's manufactured in Germany, right? So, I mean, as much as I want to, you know, sell everybody a U.S.-made CC9, there are some people who just prefer those German proof marks, right? So, and now you can, you know, really pick your poison, so. Yep. Another feature on the VP9CC, if you look here, you'll notice that these sights are just a little bit taller"
+ },
+ {
+  "segment_id": "s-0055",
+  "start_seconds": 1814.46,
+  "end_seconds": 1848.4,
+  "text": "than what you would see on our CC9. And this is part of the development that we did here with you. It was really great. Obviously, I had advance notice that this gun was coming out in my role. But working with Vortex, we also knew that this new Defender CCW optic was going to be coming out as well. And we were able to work with you guys as far as, like, here's, like, over, let's make some last-minute tweaks to make sure that this is perfectly set up. So to be able to launch this optic with this pistol allowed us to also have the time to take the sights"
+ },
+ {
+  "segment_id": "s-0056",
+  "start_seconds": 1848.4,
+  "end_seconds": 1882.1,
+  "text": "and elevate them just slightly so that they would co-witness through the bottom of the optic, which to me is a massive effect because anything can fail. And if I ever had that opportunity where my red dot went down, I still have these as a backup. And for some people, the biggest challenge I've found with transitioning to red dots is the presentation. And so what I've found is if I can see this high-vis front sight as I'm presenting out, then I can just drop it down. So I can get myself on target. Even if I haven't found the dot yet, I can still see that bright front sight,"
+ },
+ {
+  "segment_id": "s-0057",
+  "start_seconds": 1882.1,
+  "end_seconds": 1916.54,
+  "text": "and I can bring it into focus. So this has been a real positive addition to the VP9CC and one that you can only do when you have a good working relationship and you can lean far enough forward to help design these things instead of what happens a lot of times is it's not thought about in the design process, and then it's just kind of you throw things together at the end, and customers say, well, I sure wish I had sights that co-witness with it, and I hope the aftermarket comes up with a solution. We're really working to try and pull these packages together so that they don't just look like,"
+ },
+ {
+  "segment_id": "s-0058",
+  "start_seconds": 1916.6,
+  "end_seconds": 1948.02,
+  "text": "but they are a coherent plan from the start. One difference that I see between the two packages is the CC9 has the Defender CC-Dub, and the VP9CC has the Defender CC-Dub enclosed. So I guess what's going on with the differences there and the why behind each one landing on their respective pistol? Yeah, so one is, as I mentioned, the VP9CC is slightly wider in its overall dimensions than the CC9."
+ },
+ {
+  "segment_id": "s-0059",
+  "start_seconds": 1948.68,
+  "end_seconds": 1983.52,
+  "text": "So when we looked at the CC9, I wanted to get an optic that was of the similar profile. Just from an aesthetic thing, maybe it's a point-of-sale feature when you see a gun where there's just some big optic dropped on top of it, it doesn't look right. And it's even more important, in our opinion, for a micro-compact gun where it's about the slim dimensions that make it so easy to carry that if I then take that away by putting a big optic on the gun, then, okay, it's not the concealable gun that I had before. So having the ability to come to you guys and say, here's what I need."
+ },
+ {
+  "segment_id": "s-0060",
+  "start_seconds": 1983.52,
+  "end_seconds": 2016.42,
+  "text": "I need this capability in an optic. And for you to be able to say, well, we have this Defender CCW open emitter that is the narrow dimensions and overall height that you want, made it a perfect solution for that pistol. When we went to the VP9CC, I had a little bit more real estate to work with. And also from a price point standard, and we'll get into the feature set capability, as a lower-priced micro-compact in the market and a higher-priced pistol in the market,"
+ },
+ {
+  "segment_id": "s-0061",
+  "start_seconds": 2016.76,
+  "end_seconds": 2052.64,
+  "text": "I have the ability to give you a little bit more of a cost-effective optic and a little bit more of an expensive one but with a different feature set. So it kind of paired with it to say, here's two different pistols with two different style optics. Both get the job done but have a little bit different feature set. So some of the customers, you know, will prefer one over the other, but it gives you those options. And again, they're purpose-built for what your goal is. And just like we said this, I didn't have to make the changes because this actually direct mounts onto the slide"
+ },
+ {
+  "segment_id": "s-0062",
+  "start_seconds": 2052.64,
+  "end_seconds": 2083.68,
+  "text": "with the RMSC footprint. So our standard sights co-witness through the base of this as well. So sometimes things just work out in your favor without you even having to work for it. But that was the choice set between the two different optics to pair ideally with the size of the overall guns and really kind of that price and feature set point of what you're looking for. Awesome. Yep. The other thing that I'll notice, again, just a shameless plug for how great it is to work with you guys."
+ },
+ {
+  "segment_id": "s-0063",
+  "start_seconds": 2083.68,
+  "end_seconds": 2115.5,
+  "text": "If you will notice on the side of both of these pistols, the logos are subdued. So meaning the Vortex model logos. Whereas on this one, being a pre-prototype example, you can see they're white. This is what they normally come. You know, if you went to your store and you buy your Vortex, I would have that. But, you know, we asked for, hey, let's just do something different and let's just subdue the logos on here. And you guys are like, sure, we'll do that for you. So that's a nice touch, I think, for the customer base if you're trying to have something that's a little bit different, a little more low profile."
+ },
+ {
+  "segment_id": "s-0064",
+  "start_seconds": 2115.84,
+  "end_seconds": 2148.2,
+  "text": "Yeah, yeah. It's a clean look, a little more discreet. And the overall package is super sharp. Awesome. What do we have next on the table? So our VP9 family, the full-size family, and we've got our box here that can showcase these models. The VP9 was released in 2014. And its original configuration is, you know, a standalone firearm. And since then, it has become our most popular firearm to date. And it's really only been, you know, just over a decade for that."
+ },
+ {
+  "segment_id": "s-0065",
+  "start_seconds": 2148.3,
+  "end_seconds": 2180.78,
+  "text": "So it's kind of hard to imagine if you think about some of the other really popular firearms like the USP series. Oh, yeah. You know, debuted in 93. We far surpassed how many VP9s we've sold versus how many USPs, even though the USP has been out for two decades longer than that. And it's just been a massive success for us. And really what it comes down to are a couple of factors. One, you took all of the things that are great about H&K pistols, the reliability and endurance."
+ },
+ {
+  "segment_id": "s-0066",
+  "start_seconds": 2181.0,
+  "end_seconds": 2215.56,
+  "text": "But now you made them in a striker-fired pistol that we all know striker-fired are just easier to teach somebody to be able to shoot and become confident with versus a double-action, single-action gun where you've got the heavy transition of the first shot. And then the single shots afterwards. It's a pistol that I continually hear people pick up and say, wow, this thing feels like it was designed to fit in my hand. It's so easy to shoot and become good with. And so that itself had people gravitated to."
+ },
+ {
+  "segment_id": "s-0067",
+  "start_seconds": 2215.68,
+  "end_seconds": 2250.96,
+  "text": "It was one of those that people recommended to say, yeah, if you want a gun that's really easy to shoot and, you know, will last and last, you need to check out the VP9. And the other thing we did by design was we lowered the price on the VP9 series. So previously, and I think we mentioned this in the podcast yesterday, we had always had the challenge of when if you went into a gun store and you had your budget, you never made it to the other side of the cabinet. Because those H&K pistols, the hammer-fired, you know, guns like USPs and P30s, they were just at a higher price point than the striker-fired guns from other companies."
+ },
+ {
+  "segment_id": "s-0068",
+  "start_seconds": 2250.96,
+  "end_seconds": 2282.26,
+  "text": "So we knew when we launched a new striker-fired pistol, we wanted to bring that price point back in line, where now it made it attractive. And what it did, I call it the gateway drug to H&K. It got people into H&K as a brand that had never been in there. They realized how good this firearm is. And then because now they're in the club, they get introduced, you know, when they're at the range or they're at a VIN or whatever that is to, oh, try this out. Try this out. And they realize, oh, wow, it's not just this VP9. It's all of these other H&K products like we went over in the previous podcast."
+ },
+ {
+  "segment_id": "s-0069",
+  "start_seconds": 2282.76,
+  "end_seconds": 2317.98,
+  "text": "And now they're hooked. You know, I don't want to say like we're a drug dealer, but the process is trying to get those customers that you didn't have previously into the brand. So for us, it's been the VP9 series has been a massive success. And we've taken that initial model and created a full family of it. Because, again, we understand there are different requirements for different people. And when you can have all these different sizes and capability sets, but it's all the same functional operation and muscle memory, then it's not I'm having to completely relearn."
+ },
+ {
+  "segment_id": "s-0070",
+  "start_seconds": 2318.22,
+  "end_seconds": 2351.64,
+  "text": "Like if you give me a 1911, I'm going to have to spend just a couple seconds. Okay, yeah, I remember how to shoot this. You know, you give me some other firearm. Okay, weird grip angle, whatever this. You pick up a VP9, any of the ones in the family, and it is exactly the same transition from one to the next. So that I think carries over and really makes people feel confident across the brand. Yeah, it's interesting you say that too because I had that case in the shop that I worked at. And it was, you know, poly pistol starting at about $99.99. And then all the way up to HK on the far right side of that case."
+ },
+ {
+  "segment_id": "s-0071",
+  "start_seconds": 2352.12,
+  "end_seconds": 2383.96,
+  "text": "And it was, you'd have your enthusiasts that come in that, you know, like, I just want to try this because I want to try it. And at the time it was USPs and P2000s. That's what I sold. And then you'd see also somebody come in, they're like, I'm new to handguns. And, you know, they spend whatever their budget is. And then they realize whatever shortcoming or touchpoint they don't like. And then they go like this, this, this. And so often I'd have somebody arrive at something like a USP or P2000 and be like, oh, I get it."
+ },
+ {
+  "segment_id": "s-0072",
+  "start_seconds": 2384.02,
+  "end_seconds": 2414.16,
+  "text": "Like, I understand now why this has a $250 premium over this. And it's those touchpoints. And yesterday you were talking about Porsches, right? And like a Toyota Corolla is a fine sedan. You know, you can get a speeding ticket in it. It's not a Porsche Panamera. They both have four wheels. They both have four doors. The Porsche is quite a bit nicer. It does carry a higher price tag, right? But that is so true. How people just saw that price tag initially never even started there."
+ },
+ {
+  "segment_id": "s-0073",
+  "start_seconds": 2414.32,
+  "end_seconds": 2449.4,
+  "text": "Some did. But when the VP9s came out, I remember this. It was like when the press release was like, okay, what's the difference between this and a P30? And it was like, oh, well, there's striker fired. There's no hammer anymore. We don't have to worry about decocker functions. We don't have to worry about external safeties. And the things that we talked about yesterday, it's also what is in vogue right now. Let's alleviate the user of switches and levers and buttons that can confuse them or possibly put them into a situation. And this is, I don't think, a departure from the USP from any kind of quality standpoint."
+ },
+ {
+  "segment_id": "s-0074",
+  "start_seconds": 2449.52,
+  "end_seconds": 2481.44,
+  "text": "It's a modernization of the pistol. Yeah, yeah. And what the consumers is after. Like, they don't want the hammers anymore, it seems. I could be wrong on that. But there's definitely still a diehard group of people who are, it's hammer fired. I'm never going to use a striker fired. But again, it gives you those different capabilities. And for us, again, I've mentioned this before, it's about requirements. So it wasn't just we listened to what the market demand was. We were looking at what the requirements were. And there started being requirements that were coming out that just said striker fired pistol."
+ },
+ {
+  "segment_id": "s-0075",
+  "start_seconds": 2481.6,
+  "end_seconds": 2517.74,
+  "text": "So you couldn't even enter one of your other pistols that could have met all the other requirements. So you're kind of forced to go in those certain directions for what the customer needs. But you mentioned time to kind of modernizing it. What I've always mentioned is the USP for us was the revolution. It was a completely new focus from H&K. It was, you know, we'd, a lot of people think that there's another company that was the first polymer pistol. No, it was H&K with the VP70 that did that first. So we brought that polymer receiver back. And then we made all the modularity and all the features about having a light rail and those kind of things in the USP."
+ },
+ {
+  "segment_id": "s-0076",
+  "start_seconds": 2518.44,
+  "end_seconds": 2555.04,
+  "text": "Every pistol we've done since then has been an evolution of the USP. So if you look at a P2000, you're like, oh, it's a USP compact that just kind of contoured now as an anti-safety. Sort of, yeah. And then you look at a P30 and go, okay, it's a P2000 but a little bit bigger. And now it's got a full Picatinny rail and so on. And this is basically taking the P30 and saying, okay, how do we now make it a striker-fired gun? So those evolutions, they come with all of the benefits that you have along with that. All the lessons learned, all the feedback on there. You know, we'll talk about it in a minute here on what separates the new VP9A1s from the other one, from the original models."
+ },
+ {
+  "segment_id": "s-0077",
+  "start_seconds": 2555.04,
+  "end_seconds": 2586.1,
+  "text": "But it's the feedback. It's what we inside HKUSA said we wanted. It's what our customers were telling that they wanted. And we took that feedback and continued to evolve it in there. But let me touch on some safety features because I think this is another thing that you don't get just from walking up to the gun. And it's one of the things I really, I get excited about. I dig about our company is how much we focus on safety and building these multi-level and layered safety features into the pistols."
+ },
+ {
+  "segment_id": "s-0078",
+  "start_seconds": 2586.1,
+  "end_seconds": 2619.64,
+  "text": "Because safety is a massive concern, especially if it's something that you're going to carry and protect yourself with. So these safety features I'm going to mention, they carry over to all these models here. But I'll demonstrate them here on this VP9L. The first thing that you're going to see on all these pistols is they all use a trigger safety. On striker-fired guns, we're used to seeing that. It's this kind of lever here sticking out from the center of the trigger. And what this does is prevent the trigger from inadvertently being pulled to the rear until you put direct pressure on the center of the pad."
+ },
+ {
+  "segment_id": "s-0079",
+  "start_seconds": 2619.8,
+  "end_seconds": 2651.64,
+  "text": "And it defeats that safety. In its relaxed position, it's actually pressing up against the back of the receiver. So it can allow the trigger to go to back to the rear until you can depress that, go forward. That's pretty common. We've seen that across the board with striker-fired guns. But where this is different is it interfaces with what we have internally, which most current production guns have as well, of a firing pin block safety or drop safety. But the way we've done it in our pistols here is what we call a multi-axis safety system."
+ },
+ {
+  "segment_id": "s-0080",
+  "start_seconds": 2651.86,
+  "end_seconds": 2684.58,
+  "text": "So this is a vertically mounted. It's moving back to the rear safety. In our firing pin block safety, what you'll have is a horizontally mounted safety here just to the side of the firing pin tunnel. And what this does is block the firing pin or the striker's movement through the channel. You can see it sitting right in front of it. And it's only when this trigger safety is depressed, the triggers move into the rear, and the trigger bar will then sweep this firing pin block out of position."
+ },
+ {
+  "segment_id": "s-0081",
+  "start_seconds": 2684.88,
+  "end_seconds": 2718.76,
+  "text": "And that happens just a split second before the sear then disengages and it allows that to go forward. And because these are on two different axes, there is literally no way that you can drop the pistol, because it's going to only go in one angle, to drop with significant force to dislocate both the trigger safety and the firing pin drop safety at the same time. There's just no, there's no, unless we've got two different gyroscopes throwing us around, there's no way to defeat those at the same time. So a lot of people are concerned about a striker fire gun, like, oh, the striker, and it's pulled back to the rear."
+ },
+ {
+  "segment_id": "s-0082",
+  "start_seconds": 2718.84,
+  "end_seconds": 2749.48,
+  "text": "What happens if the striker fails? Well, even if somehow the arm of the striker sheared off, it cannot move through the breech face because the firing pin drop safety is blocking, and it cannot defeat the firing pin drop safety until I pull the trigger all the way back to the rear. So those two safety features are crucial. There's also a disconnector safety that's on the right side of the pistol that ensures that the slide is fully in battery. If your pistol was able to fire without it fully in the lock position,"
+ },
+ {
+  "segment_id": "s-0083",
+  "start_seconds": 2749.48,
+  "end_seconds": 2783.52,
+  "text": "and you get a path of least resistance, that explosion would not go down the barrel. It would go up in the injection port, down the magazine well. You could have catastrophic damage to the handgun injury to the shooter. So the disconnector safety rides on the side, and there's a recess inside the slide that it sits in when it's at rest, and it allows the weapon to fire. But if that slide is out of battery, the disconnector safety will drop. Let's see if I can hit it with my finger here as I do this picture. But it'll drop down, and the trigger bar will still move,"
+ },
+ {
+  "segment_id": "s-0084",
+  "start_seconds": 2783.62,
+  "end_seconds": 2818.76,
+  "text": "but now the trigger bar drops underneath the sear actuator latch, so it cannot release the sear. So that's another safety feature that's built into the system that's going to protect you as the shooter. And then what you saw when we took the pistol apart, this is another problem that we've had with a lot of striker-fired designs from other companies, where documented examples of people taking their striker-fired gun apart for normal maintenance, and what do they do? They end up discharging the firearm and injuring themselves or somebody else in the process. And that's because those designs require you to pull the trigger to release the striker"
+ },
+ {
+  "segment_id": "s-0085",
+  "start_seconds": 2818.76,
+  "end_seconds": 2852.4,
+  "text": "to get the slide off the gun. On all of these pistols, the VP9 series pistols, the CC9s you see here, our designs require that before you can actuate the takedown lever, you must first lock the slide back to the rear. If you had a round in the chamber, this would obviously cause the round to be ejected. It also allows you the opportunity to do a visual and physical inspection of the chamber. But now I still cannot rotate the takedown lever until I've removed the magazine, the source of ammunition. And then and only then can I take the takedown lever down."
+ },
+ {
+  "segment_id": "s-0086",
+  "start_seconds": 2852.66,
+  "end_seconds": 2887.04,
+  "text": "And unlike a lot of other designs, it's still required to pull the trigger. On these pistols, you just pull back and off. So that safety feature has meant that no one can shoot themselves or anybody else disassembling their pistol for maintenance. And that's a massive improvement for that shooter that doesn't have as much training or doesn't have as much attention to what's going on. And it's definitely a huge benefit we have found for our law enforcement customers who adopted these pistols for service. So those safety features, I love how they're layered into what we do."
+ },
+ {
+  "segment_id": "s-0087",
+  "start_seconds": 2887.04,
+  "end_seconds": 2921.82,
+  "text": "And they carry over to each new project. And we always find another way to find another system to improve that as well. You know, and they may sound more complex than what a lot of people are used to. But I'm thinking through the processes of different disassembly measures for different guns. And I'm an armorer for another polymer pistol company. It's actually less things that you have to be conscious of while you're taking the pistol apart. There's no like eighth inch back, pinch grip, pull, let go forward, click, fire, and then separate."
+ },
+ {
+  "segment_id": "s-0088",
+  "start_seconds": 2922.38,
+  "end_seconds": 2954.54,
+  "text": "And so there are more layers into that mechanism. It is safer, but it's less stuff that you have to do. It's less very finite movements that need to be executed in some weird Rube Goldberg machine to get the slide off the pistol. That's pretty clever. Well, it is. And it's like there's multiple layers of safety built in. But none of them are cumbersome or get in your way or anything like that. They don't need special tools. And it took me, whatever, two minutes to explain all that. But you doing it don't even know that that's what's happening."
+ },
+ {
+  "segment_id": "s-0089",
+  "start_seconds": 2955.4,
+  "end_seconds": 2985.88,
+  "text": "Right. But it's happening by design, which I think is great. This is a good time to talk about some of the other features that really kind of separate us from other companies. When we're talking about safety features, and I kind of look at the barrel as another related safety feature. We've had a lot of challenges, and you'll see it in the industry when there's spikes of demands in ammo availability, that the quality control goes down."
+ },
+ {
+  "segment_id": "s-0090",
+  "start_seconds": 2985.98,
+  "end_seconds": 3016.04,
+  "text": "They're trying to push that stuff out as much as possible. And those bargain base, you know, get the ammo in a Ziploc bag type thing, trying to save some money. We've seen a lot of challenges with ammunition failures and squib rounds as being a significant issue where you fire and it doesn't have enough oomph to get out of the barrel of whatever firearm you're utilizing. You don't notice the difference in, you know, the sound signature or the recoil impulse, and you pull the trigger again, and that next round impacts that bullet."
+ },
+ {
+  "segment_id": "s-0091",
+  "start_seconds": 3016.88,
+  "end_seconds": 3049.34,
+  "text": "And you can Google search this stuff. You'll see examples where, you know, the barrel's filleted open, the receiver in the slide, and you get somebody's bloody hand in the process. Probably the thing that we do best across all of our products is our barrel design. The quality of the German steel, the high chromium content, the metallurgy that goes into that itself already starts you at a good place. And then our barrels are all cold hammer forged. So we have a huge series of these cold hammer forged presses."
+ },
+ {
+  "segment_id": "s-0092",
+  "start_seconds": 3049.84,
+  "end_seconds": 3085.58,
+  "text": "The barrels will start out in a blank that's about the diameter of a baseball bat. And about this long, they are deep drilled, and a mandrel is inserted in that has the imprinting of the polygonal rifling on them. And remind me to touch on why polygonal rifling in a moment instead of traditional lands and grooves. But that's inserted into the barrel blank, and then that whole barrel blank goes into the cold hammer forging machine. And then four hammers impart 30 tons of pressure, 1,000 beats per minute."
+ },
+ {
+  "segment_id": "s-0093",
+  "start_seconds": 3085.82,
+  "end_seconds": 3116.58,
+  "text": "And in the end, that barrel blank is elongated out to the point where we now can basically, for pistols, cut about nine barrels out of that. And then it'll go into a process of machining where they'll go to the actual diameter of whatever the barrel is going to be. And there's another section for the chamber and the locking lug. But the end result is these barrels are incredibly strong and resistant. So that means that they have a much longer lifestyle before you're ever going to burn them out and shoot them out. We have massive documented examples,"
+ },
+ {
+  "segment_id": "s-0094",
+  "start_seconds": 3116.78,
+  "end_seconds": 3147.38,
+  "text": "usually from like ammunition companies that use our guns to test their ammo because they know that our guns will last longer. They don't have to keep buying guns to test, and they'll come back in with 100,000, 200,000, 300,000 rounds in these guns. And, you know, we'll drop in our barrel erosion guides, all our different gauges, and they still meet spec. But with the squib rounds, quite often what we'll have is, you know, our customer service line will get a call, and somebody says, hey, I was out at the range, and I was shooting my pistol on the slide lock back,"
+ },
+ {
+  "segment_id": "s-0095",
+  "start_seconds": 3147.4,
+  "end_seconds": 3178.72,
+  "text": "and I can't get it to go forward again. So, okay, here's your RMA number. Send the pistol in, and we get the slide off, and you look at the barrel, and you really have to hold up the light. And I see there's a little bit of a bump right here. And then you'll look inside the barrel, and you'll see like a little dirty ring of carbon, it looks like, in the center of the barrel. That's where the rifling's been blown out, where one round hit the other. But all it did was bulge the barrel, and it just can't get around the tang on the opening. So that's the strength of our systems. And we actually do this in all the testing of our firearms."
+ },
+ {
+  "segment_id": "s-0096",
+  "start_seconds": 3178.84,
+  "end_seconds": 3209.64,
+  "text": "One of the tests that we do is block bore testing, where we will lodge an obstruction at the chamber area, at the middle, and at the end of the barrel, and we test them all, and they will fire, make sure that they don't destroy the weapon. Then they will remove that extra material on the outside, put it back in the gun, and we'll go back in and shoot accuracy, and it will still meet accuracy standards for us. So the quality of the overall system, you know, that's another thing that you're paying for. It's not just the German name. It's the quality that you don't have in another system. So you may never have a squib round, and that's great."
+ },
+ {
+  "segment_id": "s-0097",
+  "start_seconds": 3209.96,
+  "end_seconds": 3242.22,
+  "text": "But you also know, I can shoot this thing, and shoot this thing, and shoot this thing, and then give it to my kids, and let them shoot it. And I'm never going to have to call H&K and say, I need a new barrel, because I ran that out. And then on the rifling, most people are used to traditional lands and grooves rifling. You look down a barrel, it's very obvious. You see those deep grooves. For H&K, we use polygonal rifling. And so when you look in our barrels, you don't see that deep groove. You'll see more of a curvature. And what that does is those deep grooves, obviously, they catch all the carbon and fouling in there."
+ },
+ {
+  "segment_id": "s-0098",
+  "start_seconds": 3242.28,
+  "end_seconds": 3276.74,
+  "text": "So it means that you have debris that, obviously, you've got to clean out. And that debris is touching every bullet that's going down the barrel. It's making it less accurate. And as that bullet's going down the barrel, some of that gas pressure that's behind it is able to move with the bullet as it's going out and escape there. With polygonal rifling, you don't have those deep grooves. You don't have all that debris in there. These are much easier to clean. You can shoot a whole bunch and run a cleaning rod. And you're like, wow, this thing's really not that dirty. But it seals in the pressures behind the bullet. So you get increased velocity and better accuracy potential out of the barrels."
+ },
+ {
+  "segment_id": "s-0099",
+  "start_seconds": 3277.1,
+  "end_seconds": 3312.0,
+  "text": "We'll touch on another thing on the barrels while I'm thinking about it. I know I'm kind of jumping around here. But it's all these great benefits that go into it. If you look at this model here, this is our VP9L or long slide model. We have another one called the Match. These are both more of a competition-focused pistol. So you can see longer barrels and slides and cuts in the slide. If you notice at the end of the barrel, you'll notice that little green O-ring. And if you tuned into our podcast yesterday where we talked about the Mark 23, this is a feature that we've put in all of our accuracy models that have carried over"
+ },
+ {
+  "segment_id": "s-0100",
+  "start_seconds": 3312.0,
+  "end_seconds": 3345.3,
+  "text": "since the Mark 23. So how do you make this pistol more accurate? It's not just that we did some slide cuts. We made the slide longer. How is this more accurate and the match more accurate than a standard model pistol? In a Browning tilting barrel design, every time that that weapon fires, that barrel tilts down and goes back up. So every time it goes back into battery, it's somewhere slightly in a different position in the end of the tang. And by creating this simple rubber O-ring, every time the slide locks up and you fire and that bullet goes down the barrel,"
+ },
+ {
+  "segment_id": "s-0101",
+  "start_seconds": 3345.3,
+  "end_seconds": 3375.76,
+  "text": "the pressures will cause that O-ring to swell, and it'll create a perfect circle around the opening of the tang and it'll place the barrel in the exact same repeatable accuracy position that it did before. So a really unique feature that you'll find on the VP9L and match pistols. And you can see this is our VP9X tactical. We make tactical models of our X, F, and K models. And it just simply has the ability to remove this thread protector and add on a suppressor or a muzzle device of your choice."
+ },
+ {
+  "segment_id": "s-0102",
+  "start_seconds": 3376.26,
+  "end_seconds": 3406.58,
+  "text": "So if that's something that you are interested in, having that capability, you have that ability to have that in the VP9 series models and run these guns suppressed, which again becomes another feature that the fans are really asking for to have or that our law enforcement military customers are demanding to be a feature as well. So this is kind of the full honcho package. So we've got those, you know, tall suppressor type sights."
+ },
+ {
+  "segment_id": "s-0103",
+  "start_seconds": 3406.68,
+  "end_seconds": 3438.84,
+  "text": "Of course, they both have interchangeable back straps, threaded barrel. Magazine interchangeability between these two models? Yeah, so on the VP9, our F is our full size. Our X is the crossover. That's the actual original VP9 style size, more of a G17 style. And then the K is our compact or more of a G19 style. So you get a slightly shorter barrel. I'm sorry, the same length as the X model, but a slightly shorter grip."
+ },
+ {
+  "segment_id": "s-0104",
+  "start_seconds": 3438.84,
+  "end_seconds": 3472.9,
+  "text": "So if you wanted to carry it, you get a little bit shorter grip length. It comes with the standard 15 round magazines, but the 17 round mags, which are the standard ones for the full size guns, will also fit. And then the 20 round magazine extension will work in any of those guns as well. So you can carry those. These are also the magazines that work with our P30 series. So if you had a P30 hammer fired gun, you work that if you had the earlier P2000 or the USP compacts, all those magazines are cross compatible with that, which is a real benefit."
+ },
+ {
+  "segment_id": "s-0105",
+  "start_seconds": 3473.86,
+  "end_seconds": 3504.98,
+  "text": "James, hearing you talk through all those different features, it's like, I mean, not a lot of little things that when stacked together, turn out to be like big things. Yeah. Or actually even just little things that on their own are big things. Like that O-ring is ingenious, really. But I'm sure it's having a dramatic impact on overall performance. It is. And you touch on that. It is the little things that matter. So we'll touch on a few of these going around the bend."
+ },
+ {
+  "segment_id": "s-0106",
+  "start_seconds": 3505.32,
+  "end_seconds": 3537.62,
+  "text": "When the VP9 first came out, we introduced these charging supports, which you'll see here at the end of the slide. They stick out slightly from there. And I remember the first time I got it and I got like a pre-production VP9. They hand it to me and it was the first thing I looked at. I was like, how did nobody else come up with this? This is so smart. The number of times that I've been trying to rack my slide, my hands are sweaty or wet or whatever, and it slides off, just introducing these just gives you a little bit more purchase right there at the end to grasp and grip that around."
+ },
+ {
+  "segment_id": "s-0107",
+  "start_seconds": 3537.62,
+  "end_seconds": 3571.3,
+  "text": "And now that so many people are preferring, you know, they're teaching this kind of slingshot or what do we call it? The technique to grasp on the top. Slingshots to the rear. This is power stroke technique. Having that purchase really, really helps on that. The other things that you'll notice on the new VP9A1s is this texturing that's here on either side. And this was a great feature of feedback that we had, you know, back in my time in the Marine Corps."
+ },
+ {
+  "segment_id": "s-0108",
+  "start_seconds": 3571.4,
+  "end_seconds": 3608.26,
+  "text": "We used to put skateboard tape up here on the front and this was a reference point. So every time I built my grip, I didn't have to look and say is my thumb in the right position. My thumb would hit that skateboard tape and I knew I was in the right place and I built that muscle memory. Now we built that in here for your support thumb. But also when my finger comes off the trigger, I know I'm off the trigger. So I'm not thinking, am I off the trigger? Am I still in the trigger guard? Nope, I'm off the trigger and I'm in a safe place. So those are really unique features that go into them. You'll notice at the bottom of the magazine well on all the A1s, in order to allow the magazines to insert faster,"
+ },
+ {
+  "segment_id": "s-0109",
+  "start_seconds": 3608.26,
+  "end_seconds": 3638.94,
+  "text": "we created a slightly flared magazine well on the bottom of all the pistols, but also to allow you in case you had a malfunction, a stoppage, maybe you had a double feed and you need to pull that magazine out. You'll notice that there's an undercut here and on the base of the magazine with texture that allows me to get my thumb and my finger in here and grasp that and do a strip and rip if I need to instead of just a flat base that I can't get to because now I have a mag funnel, jet funnel type thing, I can't get to the base of the magazine."
+ },
+ {
+  "segment_id": "s-0110",
+  "start_seconds": 3639.16,
+  "end_seconds": 3675.74,
+  "text": "So little features like that and then the adaptability of the panels. So all the VP9 pistols have exchangeable side panels and rear back straps that allow you to customize it to your side. So there's a small, medium, and large on the side panels. There's a small, medium, and large on the rear and now we offer a small, medium, and large extended beaver tail where it actually fills this gap up here. And what that allows you to do isn't just, oh, it feels better, but it's about the placement of your trigger finger. And I see this all the time when we teach courses is you see people that are, their finger's all the way over here and they wonder why they're pulling left."
+ },
+ {
+  "segment_id": "s-0111",
+  "start_seconds": 3676.18,
+  "end_seconds": 3708.78,
+  "text": "That's going to naturally cause you to pull left or they don't have enough finger in there because their grips are too big and they're barely touching the trigger and they're pulling right. I can adapt the grip size to place the center of the most distal pad of my finger on the center of the trigger. And I'm already, it's again, it's marginal gains. That's that little thing that's going to get me back on target on what that may need to be for shooting. So we've sweated the details on all of these things, additional texture points and additional cocking serrations on the front and the rear."
+ },
+ {
+  "segment_id": "s-0112",
+  "start_seconds": 3708.94,
+  "end_seconds": 3743.72,
+  "text": "You'll see textures on the magazine releases, extended textures on your slide lock, slide release, which is ambidextrous as well. All those features have been built in to continue to make this as capable a pistol as we can do. Well, and what you see with the VP9A1 specifically, the original VP9 from 2014 was a Bavarian police contract pistol. So as good as that pistol was, it wasn't necessarily designed or the feature set wasn't specifically for the U.S. market."
+ },
+ {
+  "segment_id": "s-0113",
+  "start_seconds": 3743.72,
+  "end_seconds": 3784.68,
+  "text": "The VP9A1 is the first time that we have ever had HK Germany redesign or configure a pistol specific to U.S. market demand. So a lot of the feature set here is stuff that we asked for. We took customer feedback over the decade that the original VP9, you know, the consumers were saying, hey, I want this feature. Hey, can we really, you know, do something with the trigger? It's got nickel Teflon coated internals to make the trigger that much slicker. Again, all of these feature sets are stuff that Germany implemented on behalf of the U.S. commercial market, which, you know, again, 10 years ago,"
+ },
+ {
+  "segment_id": "s-0114",
+  "start_seconds": 3784.72,
+  "end_seconds": 3815.18,
+  "text": "if you had asked me if Germany would have been, you know, that much on board with supporting the U.S. market, I mean, I probably would have told you no. But, I mean, it's definitely good to see us. We're starting to not be as reactive to the U.S. market. We're, you know, in a proactive stage. So, you know, we're able to, you know, step up and, you know, give the U.S. consumer, you know, not necessarily what it wants, but, you know, most importantly, what it's asking for. Very cool."
+ },
+ {
+  "segment_id": "s-0115",
+  "start_seconds": 3815.36,
+  "end_seconds": 3846.02,
+  "text": "Yes. Good stuff. Did we get through all of them? We did. What we didn't talk about are the optic selections on here. So, on our VP9X, K, and F, which are the full size, the compact, and the kind of crossover, we went with the Defender CCW enclosed optic, the same one that we had on the VP9CC. It's just perfectly sized and dimensioned for that. And all of them will come, you know, pre-mounted onto your pistol."
+ },
+ {
+  "segment_id": "s-0116",
+  "start_seconds": 3846.02,
+  "end_seconds": 3877.28,
+  "text": "And we even worked with you guys, which I thought was great, on the VP9 series. Because there are so many different optics options out there, we have all these different mounting plates. So, you've got one type optic. You may have one footprint. You need to do that. When we had ours, what you'll notice is there was this gap. And this, again, is a pre-production sample here. There was this gap on the front and the back. And we went back to Vortex and said, hey, can you fill in that gap and have these lines of the rest of the slide match it? And you guys said, yep, we'll do that."
+ },
+ {
+  "segment_id": "s-0117",
+  "start_seconds": 3877.34,
+  "end_seconds": 3910.58,
+  "text": "We'll throw this new plate in there. And now it fills it and it streamlines it. So, if you get your Vortex optic, it's going to mount, you know, cohesively across the board where somebody else's optic is not. And, again, just a nice added benefit that you guys provided to us on those packages. On our competition-focused guns, the VP9 Longslider L and the Match, we paired it with the slightly larger ST optic. So, all the same features and benefits that we're going to go over in your discussion on the Defender series."
+ },
+ {
+  "segment_id": "s-0118",
+  "start_seconds": 3910.72,
+  "end_seconds": 3943.06,
+  "text": "But now with a slightly larger dimension, so you get a little bit bigger window. Those guys are moving a little faster in their competition. They want to be able to see really clearly on not just what is that, you know, steel plate I'm getting ready to hit, but what's the next thing I need to transition to. Those marginal gains, those tenths of a second mean a lot. So, having a slightly bigger window on there has been a real big benefit for the customers. And, again, you can see if you look in closely, this one has your new optic plate that fills in that space gap there."
+ },
+ {
+  "segment_id": "s-0119",
+  "start_seconds": 3943.18,
+  "end_seconds": 3984.3,
+  "text": "So, again, it's the details. We didn't need to do that, but it's just one more thing that we said at this level, you know, what our expectation is for an H&K pistol, what we think the customer wants, those details matter. And I love the ability that one of the things that's so great to work with these guys, you're so easy to work with. It's not, yeah, we could do that, but it's going to take a year and, you know, it's going to increase the cost of this to this point or whatever. It was just, yeah, that's a great idea. We can totally do that for you. It makes sense. One thing that I think that we missed on here with the VP9A1, you know, the biggest craze right now is chassis-based pistols because of the modularity of it."
+ },
+ {
+  "segment_id": "s-0120",
+  "start_seconds": 3984.3,
+  "end_seconds": 4015.06,
+  "text": "But I could take any of these slides off of any of these models, and they'll all mount to the same frame. So, if I wanted to take that VP9L slide and I wanted to mount it on a VP9K frame, I could do that. So, I mean, with, you know, I don't know, eight different models, you can really configure it to, you know, whatever style, you know, setup you, I mean, you could dream of, really. I mean, I've seen people put match slides on K-frames."
+ },
+ {
+  "segment_id": "s-0121",
+  "start_seconds": 4015.24,
+  "end_seconds": 4047.6,
+  "text": "I've seen people put, you know, K-slides on full-size pistols. I mean, it's, you know, the amount of modularity without it being a chassis-based system is quite incredible. And we offer, for those customers who already have a standard VP9, we offer the slide kit as an accessory-type option. So, you could buy one gun and set this up. Okay, well, pop this other slide on. Now, that's my competition gun. Take that slide off and put the other one out. Watch my carry gun again. Makes it pretty appealing as well. Interesting. Collect them all, mix and match as you like."
+ },
+ {
+  "segment_id": "s-0122",
+  "start_seconds": 4049.04,
+  "end_seconds": 4085.16,
+  "text": "Many, many different flavors. Incredible. Incredible. Well, one thing that I think is really cool hearing you guys talk about these pistols, the dev process, the testing, and all the things that go into it. I see very strong parallels, Rob, to, you know, the dev process of all of our products. And we're talking about the CCW pistol dot series here and the testing that goes into it. So, let's talk about some additional features or things that we have here with these different dots that we have on the table."
+ },
+ {
+  "segment_id": "s-0123",
+  "start_seconds": 4085.16,
+  "end_seconds": 4120.36,
+  "text": "And I really want to talk about the story and that dev process and the testing that you guys did. Because, like James and these guys were saying, this wasn't the, well, we have to have a dot for a year X, so let's have it ready by January. It's like, no, we're going to do this. And however long it takes to get it right, we're going to get it right. Right. Yeah, I mean, you know, these aren't our first pistol optics that we developed, but I think these are quite a step up from the offerings that we had previously. And it was really cool to hear you guys talk about the kind of some of the specifics, like the lint test or some other things that you put our optics through."
+ },
+ {
+  "segment_id": "s-0124",
+  "start_seconds": 4120.44,
+  "end_seconds": 4152.84,
+  "text": "Because we do a lot of exhaustive testing here, too. And it's nice to get somebody outside of the building that did, you know, not the identical tests that we did, but did some pretty grueling things. And, you know, kind of arrive at a similar conclusion that, hey, these are extremely durable. They're going to perform very well. And you can really trust them. So, that was cool to get that kind of story from you guys yesterday. So, I appreciate you sharing that. Let me jump in and share that because we talked about this beforehand. And this is helpful for the customer base to understand is, you know, we didn't just take these optics and, you know, put them on there."
+ },
+ {
+  "segment_id": "s-0125",
+  "start_seconds": 4152.84,
+  "end_seconds": 4185.28,
+  "text": "Oh, that looks pretty good. Yeah, let's go ahead and do that. Every time that we come up with a solution, it has to be tested. So, we took these optics and mounted on there. And we took three guns with three of your optics in each one of these different categories. And we ran them to 10,000 rounds. And so, that's 30,000 rounds per, you know, gun optic combination. That's a lot of investment in time, money, and effort to make sure that they work. And at the end of that, you know, my testing guy sent me, hey, here's this, I get a little text message."
+ },
+ {
+  "segment_id": "s-0126",
+  "start_seconds": 4185.36,
+  "end_seconds": 4217.9,
+  "text": "And here I'm seeing these images of, you know, shot groups that are absolutely incredible on day one with your optics on our guns. And there they were at, you know, the 10,000 round mark. That's massive. That is not the norm. I've seen optics fail in a one-day pistol course. Sure. You know, firing 250 rounds. So, you know, I already had super high level of confidence going into it. But when I got done, I said, okay, this is definitely, we have made the right decision. And, you know, the individual customer doesn't get to see all that."
+ },
+ {
+  "segment_id": "s-0127",
+  "start_seconds": 4218.5,
+  "end_seconds": 4249.88,
+  "text": "And they don't have to just take my word on it. I hope they can appreciate from our standpoint the investment in time, money you put into the testing before you even said, hey, James, here's what we think is the right solution. But what we did, we're fully confident that we've given you the correct package on there. Yeah. Yeah. That's awesome to hear. It was a pretty good moment. Yeah. I'll have to share those photos with you. Yeah. I would love to see it. Yeah. So, yeah, everything, you know, started with what's on the CC9 here, which was the Defender CCW. This was the first Defender product, essentially, that we started developing."
+ },
+ {
+  "segment_id": "s-0128",
+  "start_seconds": 4249.88,
+  "end_seconds": 4282.26,
+  "text": "At the time, there's a big push for more concealable optics. But then, you know, the expectation for the product with durability and runtime and everything else had also increased. So we needed to really up our game and figure out how to develop a product that was going to meet all those customer requirements. So we went through on this one. This is where we really cut our teeth and we learned a lot. And then the cool thing with that was we were able to take what we learned here and apply it to the other open models, the ST and the XL, and then also apply what we learned to the enclosed models."
+ },
+ {
+  "segment_id": "s-0129",
+  "start_seconds": 4282.32,
+  "end_seconds": 4314.68,
+  "text": "And the feature sets are a little bit different between the open and the enclosed, and I'll get into that in a minute. You know, we started developing this, I believe it was in 2019, 2018, and I think we launched this in 23. So not quite eight years, but definitely, you know, quite a bit of testing that went into it. And we developed, you know, a whole new set of testing criteria and capabilities that we didn't have. So the simulated recoil machine, I believe you guys have seen before. And if not, you should definitely stop by after this to see it."
+ },
+ {
+  "segment_id": "s-0130",
+  "start_seconds": 4314.98,
+  "end_seconds": 4345.86,
+  "text": "That was a huge, like, force multiplier for us because, as you mentioned, you know, doing live fire testing takes a lot of time, costs a lot of money, a lot of wear and tear on people. So that was really something that allowed us to, you know, didn't exist. There were some elements of it that did exist commercially, but we really had to develop all that from, not from zero, but from a very, you know, rudimentary point to what it is today. And that allowed us to do accelerated life testing, which really helped out on the development."
+ },
+ {
+  "segment_id": "s-0131",
+  "start_seconds": 4346.16,
+  "end_seconds": 4382.38,
+  "text": "And also, I don't know if you guys remember kind of what happened around 2020, but, you know, it was tough to get ammunition, right? And so that allowed us to continue to test where ammo was really difficult to come by. We still do live fire testing, but doing simulated recoil testing allows us to, you know, really get through a lot of that in an accelerated pace. And we went through a lot of that, you know, there's a lot of teething pains on that machine. And eventually we got to the point where, you know, we feel extremely confident we can replicate failures down to within, I think it was about 100 rounds of live fire testing and what we saw in the development process."
+ },
+ {
+  "segment_id": "s-0132",
+  "start_seconds": 4382.38,
+  "end_seconds": 4418.36,
+  "text": "So there's a lot of characterization early on on getting that SRM to represent accurately what's happening in live fire. But once we got that all licked, man, that thing has been such a, like I said, a force multiplier for development. So, you know, we use that and leverage that a lot to refine the electronics package in these. That's something, you know, you kind of mentioned this, James, earlier. The environment that these live on, you know, on a slide ride environment is a way different environment than it is when it's fixed on, you know, top of a flat top receiver and rifle scope rings or whatever else."
+ },
+ {
+  "segment_id": "s-0133",
+  "start_seconds": 4418.36,
+  "end_seconds": 4451.24,
+  "text": "So the recoil event that these optics experience is extremely violent. And we characterized kind of a carbine platform, a pistol platform, and then a bolt action platform that we wanted to, I guess, make as a kind of a worst case scenario for testing purposes. So we did a lot of education to figure out what those were. But it was interesting to see what the, you know, essentially what the acceleration event looked like on a slide ride optic compared to the others. And it's way more violent. So now you're taking, you know, what was a tube style red dot."
+ },
+ {
+  "segment_id": "s-0134",
+  "start_seconds": 4451.54,
+  "end_seconds": 4483.38,
+  "text": "You're miniaturizing it. And then you also have to make it more rugged. And you have less design envelope to do all those things in. So it was a fun engineering problem to solve. The guys had a lot of fun doing it. We definitely either lost some hair or accelerated our graying. But it was good. And I think the products that we have at the end of it are really, everybody's extremely proud of them. And it's cool to see them paired with your guys' exceptional pistols here. We went through, I guess, talking about the development of the Defender CCW specifically."
+ },
+ {
+  "segment_id": "s-0135",
+  "start_seconds": 4483.38,
+  "end_seconds": 4516.86,
+  "text": "I think we went through over 15 design revisions before we got to the final product that we have here today. And in each of those we went through, you know, we were optimizing for material selection. So we looked at different types of alloy, you know, aluminum alloy. We looked at steel initially. We looked at titanium initially. We ended up landing on 7,000 series aluminum. So we spent, you know, time doing material studies there and actual prototyping. And then, you know, obviously just looking at the, you know, stress strain curves and toughness and everything else."
+ },
+ {
+  "segment_id": "s-0136",
+  "start_seconds": 4517.44,
+  "end_seconds": 4547.9,
+  "text": "And then we also spent a lot of time optimizing the housing geometry. So there's, you know, the board that's back there. We went through all the different design iterations on, you know, essentially like post thickness or kind of top thickness width. Kind of this rear geometry, like all kinds of different, you know, design iterations that were also supplemented by finite element analysis, FEA, to try to, you know, help expedite that process or at least make the prototyping process more efficient."
+ },
+ {
+  "segment_id": "s-0137",
+  "start_seconds": 4548.5,
+  "end_seconds": 4580.24,
+  "text": "But ultimately you can't replace doing actual, you know, cutting chips and making actual prototypes. So, yeah, it was over 15 design iterations that we went through until we landed on, you know, where we are today. There's another feature on these open models that we have, we call our shock shield. A lot of people think, oh, that's just kind of a cool marketing touch. You know, you got a Vortex branded, you know, VTX logo hit. And actually that was part of some of those revisions. It was looking at different durometers of rubber that was up here."
+ },
+ {
+  "segment_id": "s-0138",
+  "start_seconds": 4580.26,
+  "end_seconds": 4613.96,
+  "text": "It was looking at different pocket dimensions. And ultimately we found that this actually made a notable difference in drop. So that's something that's in there. That was part of the development process as well. And as I mentioned with the simulator recoil, we also developed a whole bunch of new test standards like drop test. So, you know, these were our old red dots would not have done very well on the drop test that we developed. And for this model in particular, it was, you know, mounted to a compact pistol."
+ },
+ {
+  "segment_id": "s-0139",
+  "start_seconds": 4614.62,
+  "end_seconds": 4647.46,
+  "text": "Probably more, yeah, I guess kind of similar to this. It was a Glock 19, fully loaded magazine. And, you know, dropping it from six feet onto a slab of concrete. We got that in the back there with plenty of chunks taken out of it nowadays. But that was something where we wanted to make sure we could hit that. Also, we have this fast rack texture on the front of the defenders. So if you're racking off of a smoother surface, it gives you a little bit more grip. That was something where, hey, if we put that feature on there, we didn't test that. That would be kind of silly, wouldn't it? Because we're kind of encouraging the customer to use that part of the optics."
+ },
+ {
+  "segment_id": "s-0140",
+  "start_seconds": 4647.6,
+  "end_seconds": 4678.04,
+  "text": "So that was something where, you know, when we had certain housing geometries, we would rack that and we would see some flexing that would happen back in the web of the housing here. Well, let me touch on that too. Because, you know, we didn't just, we knew this testing was going on. But we didn't just say, oh, well, they've done drop test testing. They're good. We do it as well. So, you know, I mentioned the accuracy, reliability, endurance testing of the weapon being fired and is it still holding zero, all those kind of things. But we did the drop test as well."
+ },
+ {
+  "segment_id": "s-0141",
+  "start_seconds": 4678.1,
+  "end_seconds": 4709.24,
+  "text": "Anytime we add something to it, if it's a new stock on a rifle, got to go and test it with drop testing, all those things. So we did the same testing. So to see that come out is surprising because I haven't seen that with other designs. I've seen guys drop their gun on the range in the grass and, you know, that kind of thing. And then this racking feature. It was another one that I really thought was interesting because you've seen people do that with iron sights before. We've had that on some of the reasons we've designed our taller sights was because there was a feedback requirement type thing to be able to rack it off your belt or off something."
+ },
+ {
+  "segment_id": "s-0142",
+  "start_seconds": 4710.04,
+  "end_seconds": 4740.4,
+  "text": "So I was really interested that you did it. But I also said, well, they wouldn't have put that there if they hadn't meant it. So, you know, I'm very concerned about the quality of your table. I want to make sure that you understand I respect your table. I don't respect all tables, but I respect your table. So is it okay if I test this here? You're not going to do anything to this table that we haven't done ourselves. And honestly, this mark that's going to go into this table, there's a bit of permanence to that. And it's a great honor to have that mark put there."
+ },
+ {
+  "segment_id": "s-0143",
+  "start_seconds": 4740.58,
+  "end_seconds": 4771.02,
+  "text": "Good. Like if you had a nice, say, steakhouse out west and you had, you know, a cattle company come in and put their brand on the wall, we're going to have a cleat mark here from the great team at HK. I'll tell Jake that's what it was. Yeah. This is a sprint. So I'm going to do it both at the same time here. That's the kind of guy I am. But obviously, you have to take the mags out of the guns to do this. But yeah, really, really loved that benefit on there. Because what it also reminded me is if it can take that kind of force,"
+ },
+ {
+  "segment_id": "s-0144",
+  "start_seconds": 4771.1,
+  "end_seconds": 4803.44,
+  "text": "well, it can definitely take the force of the individual operators coming on the top and grabbing on top of there. So I was really impressed with that design and carryover. And to me, it was another thing of you standing by the quality of the overall design. Because there may have not been a requirement to say it had to do that. But you went the extra step to it. And that feature, to me, just tells me, OK, there's a whole other level of the performance of this. So, yeah. Yeah, that kind of stuff comes. Most importantly, though, now our table gets to tell yet another stuff."
+ },
+ {
+  "segment_id": "s-0145",
+  "start_seconds": 4803.44,
+  "end_seconds": 4834.7,
+  "text": "That's right. That kind of feedback, I'm especially proud of working here, too, because we have such a diverse group of people. Like, not everybody here is a hunter or a shooter. Not every shooter and hunter is an engineer. We get together and we start talking to, like, the very specific subject matter experts. And, like, what is a trait or an attribute or something or another that is worthwhile having on a product like that. And that collaboration is how you get the rack texture on there."
+ },
+ {
+  "segment_id": "s-0146",
+  "start_seconds": 4834.72,
+  "end_seconds": 4867.08,
+  "text": "And it's pretty cool. Well, I always say it's difficult to get those finer points, those super nuanced things that truly improve the product, like the stuff that you guys are talking about with the pistols and some of the things that we're talking about here with the defenders, unless you have that super user. Yeah. Or I also know, because I'm the guy who builds the requirements document, all the good ideas, and then I hand it off to the engineers. And then the engineers look and say, do I really have to have this rackable feature?"
+ },
+ {
+  "segment_id": "s-0147",
+  "start_seconds": 4867.08,
+  "end_seconds": 4897.32,
+  "text": "Because that's going to add this time testing, this additional cost. And for you guys to say, yeah, that's something that we need. You didn't have to do that, but you did. And it's not just, you know, an aesthetic thing. It's a functional usage on all of these things that you can really put your firearm and your optic through. I think that's awesome. And it's another thing that, again, just kind of brings the two families together and makes it a perfect pair. Rob, can I grab the board that you referenced earlier?"
+ },
+ {
+  "segment_id": "s-0148",
+  "start_seconds": 4897.32,
+  "end_seconds": 4928.92,
+  "text": "Oh, please. Yeah, yeah. Sure. I'm going to pick that up. This is one of my favorite little... Hope you ate your Wheaties this morning, Mark. Now I've got some good help. So I just think this is something that perfectly illustrates what you were talking about earlier with that, just the development process and the painstaking just iterations and reviews of those iterations and refinement that you guys did over time. Also, it looks really cool. It's a cool show and tell piece."
+ },
+ {
+  "segment_id": "s-0149",
+  "start_seconds": 4928.92,
+  "end_seconds": 4959.12,
+  "text": "We should really do this more often with products that we develop. But the ones that are closest to Tommy were where we started initially. So, you know, I don't remember every nuance of every design iteration, but you can kind of see the evolution of how the product, you know, where it started and ultimately, you know, where it ended. It's funny, you know, looking back at some of these, we had some different name changes on things that we went through. Like initially we were thinking of calling this the Venom. And then we went through a whole bunch of different names before we ended up on Defender. And I'm happy we landed there."
+ },
+ {
+  "segment_id": "s-0150",
+  "start_seconds": 4959.18,
+  "end_seconds": 4992.78,
+  "text": "It's a great name for the family. But yeah, you can see these, you know, kind of different design elements like some of the ones earlier on in that second row. We didn't, I don't think, had the pocket or maybe we did. But on the fifth iteration there, we definitely didn't have a pocket for that, for the shock shield. And we went with different button sizes and, you know, that changed things dramatically when you have different wall thickness essentially for a bigger button. So ultimately we decided to kind of keep those buttons down on the base of the optic more. And that gave us more structural integrity on the rest of the housing."
+ },
+ {
+  "segment_id": "s-0151",
+  "start_seconds": 4993.88,
+  "end_seconds": 5026.18,
+  "text": "And yeah, it was a cool project for sure. One we're very proud of. And again, one that we were able to leverage a ton of learning on this one and apply it to the different sizes and then the enclosed model. And then, you know, outside of the Defender family, we also launched our Venom enclosed model, which we learned a lot from this that we were able to apply to kind of a more opening price point. It doesn't have the exact same feature set, but a lot of good lessons learned applied to that as well. So yeah, it was a fun one for sure. I think, yeah, I'm really happy with it."
+ },
+ {
+  "segment_id": "s-0152",
+  "start_seconds": 5026.18,
+  "end_seconds": 5057.46,
+  "text": "I think it's just being behind the curtain. This process, not just into micro dots, but how you guys build like a dev cycle and the testing and the documentation and the requirements that you guys have to make sure that those boxes are checked. And like, I'm a critical person of product. It doesn't matter if it's our product or somebody else's product. Like I'll say the uncomfortable things in the room. You do that? Oh, yeah. Yeah. And like, really what I'm coming to is..."
+ },
+ {
+  "segment_id": "s-0153",
+  "start_seconds": 5058.08,
+  "end_seconds": 5092.42,
+  "text": "To the detriment of sometimes not getting invited back to the room. That's correct. But somebody needs to be the voice of the customer, right? And when this kind of thing happens, like speaking for my team too and for the customer care team, we have so much confidence in the Defender products. And it's such an easy product for us to sell to somebody, to use ourselves, to recommend. And then every time they come out with a new product in NPD, knowing that this is the kind of behavior that comes first and foremost, like this is the baseline."
+ },
+ {
+  "segment_id": "s-0154",
+  "start_seconds": 5093.62,
+  "end_seconds": 5126.5,
+  "text": "What comes out of it? And like that simulated recoil machine too. Like to be able to talk to that product or that device, you know, I've had customers on the phone, they're like, well, it's different than LiveFire. And yeah, that's correct. It is different than LiveFire. And if you think about it, like we can plug in recoil impulses from all kinds of different things that the test group has analyzed and identified. And then we can apply it to that system. And oh, we can do it way faster than you can shoot a pistol. And we can make it harder on the optic than the pistol can be."
+ },
+ {
+  "segment_id": "s-0155",
+  "start_seconds": 5127.88,
+  "end_seconds": 5158.9,
+  "text": "It's such a cool tool to know that that's what's behind the curtain there. And it makes our job super, super simple. Well, see, now I've got to go tell our engineers that I need something like that. We get done with one. Not good enough, throw it in the recycle bin. Sure. We don't hang it on a board. Well, and it gives you a visual representation of that historical timeline of the dev process. You know, occasionally you'll get somebody that says, well, you know what you should have done. It's like, well, yeah, actually we did that in, you know. Yeah, it's Rev 6. Rev 6, and here's why we didn't move forward with it."
+ },
+ {
+  "segment_id": "s-0156",
+  "start_seconds": 5158.9,
+  "end_seconds": 5189.64,
+  "text": "And James, you were talking yesterday about, you know, you have just this deep historical knowledge of so many of these H&K firearms. But some of that over time, you guys have been in business a long time. Oh, yeah. It gets lost. Not all that has been saved, right? So when you have something like that, it really gives you just that step-by-step process of the why behind each step and how it got to its final stage."
+ },
+ {
+  "segment_id": "s-0157",
+  "start_seconds": 5189.88,
+  "end_seconds": 5226.38,
+  "text": "And even if we don't have him here to talk through each one, I can just look at that and go, wow. So it tells the story in itself that that's a lot of time, money, effort that went into that, and the end result is what's on this gun. That's all I need. You didn't need to tell me anything else. I got it all from being able to view it. And what's scary to me is I'm sure not a lot of optics manufacturers do this level of testing and engineering, right? So it's\u2026 Not sure. I mean, that to me\u2026 We don't get invited to, you know, other people's parties. I can imagine, but I don't think I've seen other optics manufacturers with boards that they're willing to share like that."
+ },
+ {
+  "segment_id": "s-0158",
+  "start_seconds": 5226.62,
+  "end_seconds": 5260.82,
+  "text": "Oh, sure. So, I mean, that's definitely a testament to you guys for sure. Well, I think, you know, and this kind of goes across the board. It applies to the gun industry. I know it applies to the optics industry. We've kind of gotten to this point in our civilization where we just don't expect things to last as long. You always hear they don't build them like they used to kind of deal with it. We're talking about a car or whatever else. And there's definitely this planned obsolescence that is built into things. It's the reason why you've got to go buy a new iPhone every few years, not because the iPhone doesn't, you know, can't do the things."
+ },
+ {
+  "segment_id": "s-0159",
+  "start_seconds": 5261.08,
+  "end_seconds": 5297.8,
+  "text": "They've designed it to make you come back for that. I think there's an acceptance in some level of the industry where they just say, not only we've already touched on the good enough, but it only has to last this long. So, that customer who's going to buy this pistol, they may do what I do and run, you know, tens, thousands of rounds through my gun and my optic. Or they may take it and run half a box of ammo at the range just to make sure everything's good. And then they put it in their drawer and they don't shoot it again. And if you're building an optic and you look and say, well, you know what, we're just going to have another new model in a couple of years."
+ },
+ {
+  "segment_id": "s-0160",
+  "start_seconds": 5297.8,
+  "end_seconds": 5328.9,
+  "text": "So, it only has to last a couple of years. And then if the customer has a problem, you just go, you just buy the new model or whatever that is. You could probably get away with making a lot of money as a company doing that. But that shows me that you're not doing that. That's not your approach to your business model and what the products are you doing. You know, we can go on a whole other subject. But I've got other Vortex products that I've purchased with my money long before we ever had this partnership that I have taken to crazy locations and, you know, abused."
+ },
+ {
+  "segment_id": "s-0161",
+  "start_seconds": 5329.04,
+  "end_seconds": 5361.82,
+  "text": "And they still work. And that's the reason why I kept coming back to Vortex to buy the next one and the next one and the next one instead of something that's disposable. I was going to say that that disposable mindset doesn't play well with, you know, our customer service focus and the VIP warranty that extends to products that have electronics. It just wouldn't be a working model for us. Yeah, for sure. Golly, guys. Have we covered it all? Well, you haven't talked about the differences in what we have in the new enclosed emitters."
+ },
+ {
+  "segment_id": "s-0162",
+  "start_seconds": 5361.82,
+  "end_seconds": 5394.82,
+  "text": "So I think the customers would like that because that's something that we definitely, when we present it to them, they're like, wow, this is great. I'm like, well, let me show you this. And we start showing them the feature sets that are in there. And it's been, we've gotten you guys some business from people who've had our earlier guns and immediately were like, how do I get this optic? You know, I like my VP. I don't want to buy a whole other VP9 just to get this optic. How do I get this optic? Talk me through it. So let's talk a little bit about the closed emitters. Yeah, sure. So the two options we've got up here, we've got the Defender ST enclosed and the Defender CCW enclosed."
+ },
+ {
+  "segment_id": "s-0163",
+  "start_seconds": 5394.96,
+  "end_seconds": 5428.8,
+  "text": "As James mentioned, kind of in pre-production, we were working off of just the existing kind of, you know, broadly available design here. So it's got the white laser marking, and then we switched over to more subdued. But otherwise, the product function is the same. You know, main difference between these and the open models, window sizes are going to be a little bit different. The enclosed models have a slightly, slightly smaller window, but what you get with that is a fully enclosed optic. So you've got cover glass on the front and the back. The internals are purged. Battery location, where it was on the opens, is kind of on the top."
+ },
+ {
+  "segment_id": "s-0164",
+  "start_seconds": 5428.86,
+  "end_seconds": 5463.08,
+  "text": "That was one of the design requirements for this program was you needed to be able to replace the battery without removing the optic from the... Keep it narrow. Exactly, and keeping it narrow. So we can't put the battery in that same location here, so we had to find a new spot for it. Moved it to the side here, and then the buttons are now on the other side. And some of the differentiating features other than the enclosed are you've got a solar panel on the top of the enclosed models now. We have that real estate. The solar architecture, the circuit architecture, is the same as it is for our full-size dots."
+ },
+ {
+  "segment_id": "s-0165",
+  "start_seconds": 5463.46,
+  "end_seconds": 5496.82,
+  "text": "It's a solar primary battery backup. You know, if you're concealed carrying it, most of the time you're not going to be leveraging that a whole lot. But the nice thing is you are really only sipping off of the battery when it's outside of the holster. So that's a functional benefit. And then also we've got the multi-reticle system in this as well. So you've got the ability of doing a dot and a circle dot and an open circle. So that was some feedback we had gotten from folks on having a selectable reticle was an attractive thing. And it gives people flexibility of what they want to do for their siting system there."
+ },
+ {
+  "segment_id": "s-0166",
+  "start_seconds": 5497.32,
+  "end_seconds": 5531.86,
+  "text": "I think those are some of the main differences. They have the same, you know, motion activation, the same fast rack texture. You can still do button lockout and those sorts of things. Just, you know, you mentioned kind of the lint test. And, you know, some of the feedback we were getting from customers were, hey, you know, I'm kind of worried about something getting down into or in front of or around this emitter housing and obstructing my, you know, my red dot. So this, you know, essentially just designs that problem out. And so you don't have to worry about belly button lint or, you know, rain or mud or whatever else getting in there."
+ },
+ {
+  "segment_id": "s-0167",
+  "start_seconds": 5531.94,
+  "end_seconds": 5562.36,
+  "text": "And you can just kind of wipe off the front and the back if you need to and you're good to go. The rain and the moisture is the thing that what I've noticed the most. So when we do training, you're out there in whatever the environment is. And the number of times guys have pulled it out and they can't see the dot or it's right because there's rain on there. If you've got the open one, I've got to try and get down in there and clean it off. This one's just a quick wipe. We've seen it in, we're in the southeast. It's pretty moist in there. So you'll get sometimes where that or you're just sweating with your shirt over there and you pull it out and you've got moisture on there."
+ },
+ {
+  "segment_id": "s-0168",
+  "start_seconds": 5562.42,
+  "end_seconds": 5593.42,
+  "text": "Again, a quick wipe of the shirt and you're right back up and going. So that's a massive improvement that I've seen. It's a benefit. And then the reticle change. Everybody's different in how they pick those things up. And sometimes just training somebody to figure out how to be effective with their pistol and the red dot. Me just being able to switch it to the circle and show them, just put the circle within the section of the body and you're going to hit within there."
+ },
+ {
+  "segment_id": "s-0169",
+  "start_seconds": 5593.92,
+  "end_seconds": 5626.92,
+  "text": "Okay, great. Now put the dot on and now you're going to hit precisely where you want to go. So, and that, just that little amount of training and, you know, a few magazines through each one and they're, okay, now I've got this. And then we switch them back to the next setting. So whether it's a point of sale feature where they can look and go, wow, I really like the way this looks. Or it's adapting with how you train and become a better shooter. I love the ability to be able to do that literally with just a push of the button and not having to say, oh, you've got to switch out to this other optic or whatnot. So, yeah, we've been massively impressed with these."
+ },
+ {
+  "segment_id": "s-0170",
+  "start_seconds": 5626.92,
+  "end_seconds": 5657.6,
+  "text": "We get comments all the time from people that want to know, hey, tell me more about the optic. In fact, that's one of the things we mentioned in a previous recent demo that we had done where I was there prepared to talk all about the gun. And then the questions we got are like, hey, tell me more about this optic package here because this is really, really intriguing. And, again, the why behind what you've chosen because they were expecting something different and were pleasantly surprised with what that is. So I always love being able to tell them. Let me tell you the Vortex story on there."
+ },
+ {
+  "segment_id": "s-0171",
+  "start_seconds": 5657.84,
+  "end_seconds": 5690.14,
+  "text": "So, yeah, I think it's been a big hit for us and we're looking forward to continuing this with other projects as we move forward. The other thing I like about the enclosed ones is the ability that you guys have with some of the accessory mounts. I've got them mounted on some of our sub guns. And so you saw the other video, we've got it mounted on my MP7 for training because it's super compact. I've got a very compact submachine gun. I don't want a big honking optic. This is all the red dot I need for performance. So having a different riser mount for that works on some of the other guns."
+ },
+ {
+  "segment_id": "s-0172",
+  "start_seconds": 5690.24,
+  "end_seconds": 5724.28,
+  "text": "We've been using them on some of our rifles, on a piggyback optic. Yeah, yeah. That's probably my favorite setup. So even though you have incredibly capable rifle-type optics, LPVOs, that have a feature for a reticle, some people like me, I like to set it on a more distant feature and then just be able to jump up or off to the side to have a red dot for that close-in type thing. And the Defender series and the STs have been just an easy one that I can drop and know that it's going to have the reliability if I'm banging that thing around as I'm moving them."
+ },
+ {
+  "segment_id": "s-0173",
+  "start_seconds": 5724.28,
+  "end_seconds": 5754.28,
+  "text": "So just been massively excited with really kind of the overall performance range of a single optic to not just be for this one pistol. Yeah, I mean, what you said there, that's one thing that I noticed instantly yesterday shooting the MP7. Did I mention, Ryan, that I shot an MP7 yesterday? I filmed it on my personal device so that I can watch the smile on your face. Oh, man. Just glowing. It was pretty cool."
+ },
+ {
+  "segment_id": "s-0174",
+  "start_seconds": 5754.54,
+  "end_seconds": 5786.96,
+  "text": "I'm still glowing. Hey, you know who's not happy about that, though? Jim was upset. He has not said good morning to me yet today. Well, also, I wasn't expecting a good morning after the nasty Graham text messages we got yesterday after he found out that we shot the MP7. But I digress. But, you know, the Defender Enclosed, it's a streamlined, compact dot. But on the MP7, like, I didn't feel like there was any sort of compromise, you know,"
+ },
+ {
+  "segment_id": "s-0175",
+  "start_seconds": 5787.02,
+  "end_seconds": 5821.62,
+  "text": "having those elements on that firearm. I mean, everything was just, it was like, it worked perfectly. Yes. Very, very nice compliment. I wouldn't have wanted more. Well, and it's a training carryover. We talked about the family of weapons and how, you know, the same muscle memory operations go between those. When I transition from my handgun to my primary weapon, and I don't have to then change where's, you know, what's the eye relief and, oh, this is, you know, some larger thing or whatever. If it's the same exact optic that's on my pistol and now it's on my primary weapon, I"
+ },
+ {
+  "segment_id": "s-0176",
+  "start_seconds": 5821.62,
+  "end_seconds": 5851.64,
+  "text": "don't have to think about it. I don't have to do math for Marines in my head. It's not going to slow me down. In fact, it's going to make me faster. And so I love that kind of carryover transition and the fact that you designed that in. It wasn't an afterthought that you just left for the, you know, for the accessory market. You've put that into what you're doing. A lot of your optics are coming now with these additional risers in the box. So it's not something I have to then call back and order separately where you go to the store and you get the optic, but I don't get this. And now it's all coming together."
+ },
+ {
+  "segment_id": "s-0177",
+  "start_seconds": 5852.4,
+  "end_seconds": 5882.52,
+  "text": "You know, when you buy these packages from us, it's already mounted. But, you know, when we saw the whole package, it comes with like bags of screws for all these different things. So if I decide I want to take it off my H&K and put it on my other brand firearm, it's already coming with all that stuff in the box. So to me, the approach that you just do to this is just, it's a different mindset to what other people are doing. And I see a great value in that. Yep. But I know you're going to try and take us out before I do this."
+ },
+ {
+  "segment_id": "s-0178",
+  "start_seconds": 5882.74,
+  "end_seconds": 5916.68,
+  "text": "No, no. I mean, anybody that has anything else, I'm here for it. Well, I want to say one more thing just really about the companies. And there's a big reason why, you know, we decided to go with Vortex. And it's because it's a shared kind of vision. And I know that the people that tune into this on a regular basis, they already know this. But it's the same thing that we see with H&K, that we're very passionate about the product we make. And we hire the people that are very passionate about the product we make."
+ },
+ {
+  "segment_id": "s-0179",
+  "start_seconds": 5916.88,
+  "end_seconds": 5948.0,
+  "text": "And I look at more of a family than it is just a job. And every time I get to come here, it's just like an actual vacation and a blessing because I get to interact with more and more people in this company. And I get to see people that are absolutely excited to talk about what they're doing and their role in the company. And this whole family that you guys have created here and how you approach the business model, but always based bags of family. I think it's just a really unique thing that within the industry that unfortunately don't see across the board."
+ },
+ {
+  "segment_id": "s-0180",
+  "start_seconds": 5948.0,
+  "end_seconds": 5983.08,
+  "text": "And I just, I'm really proud to be associated with what you guys are doing here in Vortex and to bring that into what we're doing at H&K because that's what I want to be a part of. Those are the kind of values and support to the customer and their needs that I want to be a part of. So I thank you guys for all that. Oh, fellas. Please. That was great. Yeah. Thank you. That was great. And it's really, I mean, honestly, James, that's about exactly what I was going to close with. And it's neat to hear from you that that shines through because it is genuine."
+ },
+ {
+  "segment_id": "s-0181",
+  "start_seconds": 5983.26,
+  "end_seconds": 6015.66,
+  "text": "It is the truth. And throughout our entire visit with you guys, it's been cool for us to see those same things. I've used the word a couple of times, but there's so many parallels between the companies and I think it's because of that, that we're seeing this marriage of these two great, great products. And with the, the other thing that I think is cool is, you know, like our, you know, dev cycle and durability testing, you guys are doing those same things. And that corroborative evidence coming to the same conclusion just goes to show that, you"
+ },
+ {
+  "segment_id": "s-0182",
+  "start_seconds": 6015.66,
+  "end_seconds": 6046.7,
+  "text": "know, these products, they are going to, they are going to work. They're going to continue to work and they're going to get the job done when you need, when you need to get that job done. So man, I've said it a couple of times, but the pleasure for us, I mean, it really is all on this side of the table. It's been an absolute, just an incredible experience meeting you guys, your great human beings and getting to get some experience with your firearms and just, you know, chat, you know, online and offline. It's just been great. Get to be at this table. You know, we talked about this podcast, like I've, I've watched so many of these podcasts"
+ },
+ {
+  "segment_id": "s-0183",
+  "start_seconds": 6046.7,
+  "end_seconds": 6079.34,
+  "text": "because I wanted to learn about all the different features and the benefits of all your models as you roll out some new product. And so I think it's really cool for me personally to now have a podcast out here that other people who were trying to learn about the HK products are going to be able to do in the same way that I've done, whether it's a Razor Bino or new tripod, whatever that may be. So it's really, I don't know, kind of a full circle moment for me to be here. James certainly has me hooked. I'll go to James and ask him about a question about an optic or a setup. And he's like, man, I could tell you, or you could go watch this podcast and really find"
+ },
+ {
+  "segment_id": "s-0184",
+  "start_seconds": 6079.34,
+  "end_seconds": 6111.76,
+  "text": "the reason why. So, yeah, you say the pleasure is all y'alls, but, you know, we've certainly enjoyed the visit and just being able to take a peek behind the curtain has certainly been a eye-opening experience for sure. Very cool. Well, not to make this, not to make this a classic Wisconsin goodbye, but James, you did make me think of something. We're not the only ones with a library of content where a person out there can learn more about stuff. You guys have created, or on, you know, on your platforms, James, you've got an incredible"
+ },
+ {
+  "segment_id": "s-0185",
+  "start_seconds": 6111.76,
+  "end_seconds": 6146.64,
+  "text": "library of content, HK-specific stuff. So can you talk, what if a person is, you know, wants to learn more about H&K products, you know, what's going on there? Yeah, obviously, you know, going to our website gives you the factory-specific information. You can find stuff on the HKUSA site. You can go back to the Germany site and see that they have, you know, similar information, but with more of a German, you know, touch to it. We have our own, you know, social media and YouTube-related stuff. But I think what you're referring to is, for me specifically, you know, such a passionate"
+ },
+ {
+  "segment_id": "s-0186",
+  "start_seconds": 6146.64,
+  "end_seconds": 6182.02,
+  "text": "person about H&K and the fact that I saw that we don't have the massive marketing team that you guys have here, which is amazing. I'm glad we're tapping into it today. But there's a lot of things that sometimes we just can't do, or we can't do at the level of depth. So I'm a huge Y guy. And so I have my own personal channel on YouTube, Tufel Hunt Tactical, T-E-U-F-E-L-S-H-U-N-D. I know it's a long word, horrible marketing decision. But there's a backstory on the name. But anyway, I've got in-depth videos on our product line."
+ },
+ {
+  "segment_id": "s-0187",
+  "start_seconds": 6182.46,
+  "end_seconds": 6215.94,
+  "text": "I mean, we talked about the P7. I've got a three-hour and nine-minute video on the P7 series. So anything that you could want to know about this safety feature and this design change or whatever, I've tried to take that history that we've talked about that just isn't written down in certain places and capture it in a way that I know that most people's, their medium now isn't reading a book. It's, let me go and watch YouTube. So those things are available. And we will continue to expand our capabilities within HKUSA specifically to provide more information. And we've started doing that here with some of the new releases to talk about them."
+ },
+ {
+  "segment_id": "s-0188",
+  "start_seconds": 6215.94,
+  "end_seconds": 6249.08,
+  "text": "But yeah, if there's ever anything somebody wants to know, you can track me down. And you won't have to twist my arm too hard for me to tell you all the gospel of H&K. I used in my earlier career with HK when I was still in customer service, I would use some of James' videos to help answer some of the questions that customers would call in about. So, you know, he's definitely modest, but I mean, his channel literally has every bit of HK historical knowledge or little tidbits and facts that anyone could possibly need."
+ },
+ {
+  "segment_id": "s-0189",
+  "start_seconds": 6249.42,
+  "end_seconds": 6280.96,
+  "text": "So that's cool. Just about sharing the knowledge. Yeah. Well, Jim, who we were talking about earlier, who's a little bit bitter with us right now, he calls it content customer service. And I think it just, it's a great term and it makes a heck of a lot of sense. And, you know, you can read something on your own or have somebody talk you through it, but being able to, you know, see, hear, watch, it's just, it's another level of understanding. So it's really cool that you guys have those materials that you can get to your customers"
+ },
+ {
+  "segment_id": "s-0190",
+  "start_seconds": 6280.96,
+  "end_seconds": 6311.72,
+  "text": "and the public out there. Ryan, Rob, any closing thoughts on your end? Great trip to have you guys out here. I mean, absolutely. It wasn't just the guns. Truly, it wasn't. Actually, from the first time I met you in our showroom, probably a year ago, I was like, that is a solid human being. Like, I hope I get to run into that guy again. And when Mark had mentioned this, I was, I'm sure he can attest to this. I was visibly excited because we had a great conversation about guns in general, the industry in general, the respective companies."
+ },
+ {
+  "segment_id": "s-0191",
+  "start_seconds": 6312.56,
+  "end_seconds": 6342.68,
+  "text": "And I'm, no, it was just delightful. Just wonderful. I got a chance to shoot some stuff. I haven't shot before. That was really cool. Mark's going to get an MP7. Simple, right? Yeah. Yeah. Yeah. Well, and then Tommy, it's great having you here too. You know what I mean? It's like, James, you keep good company. Yeah. I think, you know, companies generally. He makes me shine. So, yeah. Anytime I can bring him along here is going to make me do better. Yeah. Yeah."
+ },
+ {
+  "segment_id": "s-0192",
+  "start_seconds": 6343.14,
+  "end_seconds": 6374.94,
+  "text": "Let's go shoot some of these. Why don't we do that? Okay. Let's do it. You've got this whole awesome edge facility. Let's put it to test. Should we close it out on that, Rob? I think so. I mean, I'm looking forward to what we work on together next. I'd say stay tuned for that. Got some cool things in the works. But yeah, it's been a pleasure working with you guys. And it's been a blast. Awesome. Awesome. Thanks, guys. Thank you, guys. Thanks, everybody, for listening. This was a fun one. Tons of cool stuff here right now. Hopefully some cool stuff down the road. Stay tuned for that until next time."
+ },
+ {
+  "segment_id": "s-0193",
+  "start_seconds": 6375.02,
+  "end_seconds": 6405.64,
+  "text": "Happy hunting and shooting. And heck, do it with one of these super cool packages. You'll be glad you did. We'll catch you on the next one. See you. All right. That'll wrap it up for this episode of the Vortex Nation podcast. Thanks, everybody, for listening. If you like what you hear, hit that subscribe button. Give us a review or leave a comment. We want to hear what you have to say. If you have a question or topic suggestion, let us know that as well via the Vortex Nation podcast YouTube page or any of Vortex's social platforms."
+ },
+ {
+  "segment_id": "s-0194",
+  "start_seconds": 6405.86,
+  "end_seconds": 6417.3,
+  "text": "That helps us cover exactly what you want to hear so we can provide the best information to help you with your hunting, shooting, and related activities and ultimately enjoy them to their fullest potential. Thanks again for listening. We'll catch you on the next one."
+ }
+]

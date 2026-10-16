@@ -1,0 +1,25 @@
+{
+  "stage": "collect_sources",
+  "status": "incomplete",
+  "steps": [
+    "fetch_feeds=0",
+    "fetch_youtube=0",
+    "fetch_podcasts=0",
+    "filter_items=0",
+    "extract_content=1",
+    "store_upsert=0",
+    "store_list=0"
+  ],
+  "order_note": "filter_items runs before extract_content (documented deviation)",
+  "started_at": "2026-10-16T01:06:43Z",
+  "finished_at": "2026-10-16T01:16:25Z",
+  "tools": [
+    "bash"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": [
+    "extract_content=1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "stage": "write_articles",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-15T16:02:45Z",
+  "finished_at": "2026-10-15T16:04:10Z",
+  "tools": [
+    "claude",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "claude-sonnet-5-5"
+  ],
+  "tokens": {
+    "input": 41475,
+    "output": 11981
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": []
+}

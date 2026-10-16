@@ -1,0 +1,23 @@
+{
+  "stage": "create_briefs",
+  "status": "completed",
+  "input_count": 8,
+  "output_count": 3,
+  "started_at": "2026-10-15T15:40:21Z",
+  "finished_at": "2026-10-15T15:44:23Z",
+  "tools": [
+    "claude",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "claude-sonnet-5-5"
+  ],
+  "tokens": {
+    "input": 36288,
+    "output": 31007
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": []
+}

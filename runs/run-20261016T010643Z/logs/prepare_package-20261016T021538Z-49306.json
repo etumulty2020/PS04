@@ -1,0 +1,16 @@
+{
+  "stage": "prepare_package",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 9,
+  "started_at": "2026-10-16T02:15:37Z",
+  "finished_at": "2026-10-16T02:15:38Z",
+  "tools": [
+    "bash",
+    "jq"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

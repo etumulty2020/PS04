@@ -1,0 +1,21 @@
+{
+  "stage": "create_series",
+  "status": "completed",
+  "message": "drafts and scripts are ready for human review",
+  "steps": [
+    "select_items=0",
+    "create_briefs=0",
+    "write_articles=0",
+    "write_video_scripts=0",
+    "check_content=0"
+  ],
+  "started_at": "2026-10-16T01:16:25Z",
+  "finished_at": "2026-10-16T01:34:50Z",
+  "tools": [
+    "bash"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}

@@ -1,0 +1,25 @@
+{
+  "stage": "create_briefs",
+  "status": "needs_repair",
+  "input_count": 41,
+  "output_count": 3,
+  "started_at": "2026-10-15T13:09:16Z",
+  "finished_at": "2026-10-15T13:11:01Z",
+  "tools": [
+    "codex",
+    "jq",
+    "python3"
+  ],
+  "models": [
+    "codex-configured-default"
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  },
+  "cost_usd": null,
+  "cost_estimated": false,
+  "errors": [
+    "03 model reported INSUFFICIENT EVIDENCE: No supplied official Mammoth rules establish the current required-kit list, permitted equipment, or team-sharing constraints; no supplied comparison establishes a product catego"
+  ]
+}

@@ -1,0 +1,191 @@
+Who Will Win the 2026 IPRF World Championship? Top 50 Predictions & Division Favorites
+
+Cal September 20, 2026 Competition 5 Comments
+
+Facebook
+
+Twitter
+
+Pinterest
+
+Related Articles
+
+2026 IPRF World Championship: Halftime Update & Predictions
+
+September 25, 2026
+
+Team USA Roster Announced: 2026 IPRF World Championship
+
+March 28, 2026
+
+The PRS Champ’s Rifle, Ammo & Gear: Morgun King Edition
+
+December 6, 2025
+
+The 2026 IPRF World Championship is this week at Gravestone Precision Shooting, which is just west of Fort Worth, Texas. Shooting starts on Thursday, September 24th and continues through Sunday, September 27th.
+
+The active roster includes 270+ shooters from 24 countries. Here is the full breakdown across all divisions and categories.
+
+Team USA set a high bar at the first two Worlds, sweeping the Open Division and most others both years. But international shooters have been closing the gap. Shooters like Anthony Collie (New Zealand), Nowell Greasley (Canada), and Josef Sixt (Germany) have a real chance to take home gold.
+
+There are a ton of international shooters most of us aren’t familiar with, so I wanted to provide context on how they compare before the first shots. Who are the real contenders who have been performing at a very high level across the pond? Who are the shooters to watch? Who are the names that have a real shot at the podium at the 2026 IPRF World Championship?
+
+I wanted to see the odds, so I built several professional-level statistical models, tested how well they ranked shooters and picked winners at past matches, and used the best one to simulate this year’s World Championship. This article shares predictions for the top 50 and the favorites in every division.
+
+How The Predictions Work
+
+The modeling and testing covered 749 matches and 40,828 individual shooter performances. Each model had different strengths, so I selected an approach optimized for accuracy in identifying the likely top 25.
+
+Here’s how it works: Past scores are the starting point. However, hitting 80% of the targets at an easier match isn’t the same as hitting 80% at a difficult one. The model uses shooters who competed together to help separate shooter ability from match difficulty.
+
+It estimated each shooter’s skill level based on match performances from January 2022 through September 2026. It includes all PRS Pro Series matches, plus 400 additional qualifying match results for international competitors. That includes the Twisted Barrel Precision PRS Pro Series match that finished just an hour ago (9/20) and featured 93 IPRF international shooters.
+
+Recent results receive more weight. Older results gradually fade, especially when newer results become available. This lets a shooter’s current performance matter more than how they shot several years ago.
+
+But older results can be valuable when recent evidence is scarce. Both the 2022 and 2024 IPRF World Championships contribute to the ability estimates for international shooters who rarely compete against other world-ranked shooters. Their scores against established PRS competitors help connect those shooters to the same measuring stick. Those results provide context, although they can’t show exactly how much someone has improved since then.
+
+The final forecast combines two approaches:
+
+94% comes from analyzing individual shooters’ scores, match difficulty, consistency, and uncertainty. Some shooters have a wider range of performance levels than others (less consistent), or may not have as much match history. This takes all of that into consideration.
+
+6% comes from head-to-head matchups and who came out on top most often.
+
+The statistical model estimates each shooter’s ability and how much their performance might vary, based on their historical performances. The computer then plays out the match 500,000 times, randomly drawing plausible performances for everyone each time (called a Monte Carlo simulation). Some simulations give a shooter a great weekend; others give them a rough one. Those results produce the predicted ranks and winning odds. For example, winning 50,000 of 500,000 simulated matches would mean an estimated 10% chance of winning.
+
+How accurate is it? Across 41 PRS Pro Series matches in 2026, this method identified an average of 17.65 of the actual top 25. Its average ranking error among those top finishers was about 11 places. That means this is best used to identify contenders, while treating exact positions cautiously.
+
+Even the highest-ranked shooter has only about a 12% chance of posting the highest score in this model. That means other shooters led in roughly 88% of simulations! Less history means greater uncertainty; 33 of the 270+ shooters lacked enough historical performance evidence for an individual rank. So there are more than a few wild cards who could add to the drama of the match this week.
+
+To be clear, I’m not saying I personally believe this is how the weekend will shake out – but I’m also biased! 😉 This is simply what the objective models say the odds are based on the historical performance data available.
+
+Predicted Top 50 Overall
+
+The ranks below compare the projected scores across the entire field, regardless of division. But, to be clear, the IPRF does not give a single official overall championship title. It awards titles only by division or team.
+
+Predicted Ranks follow their average finishing positions across the 500,000 simulations.
+
+Predicted Hit % is the expected percentage of impacts from the total available points, which assumes a course of fire and conditions comparable to the 2022 and 2024 World Championships.
+
+Odds of Highest Overall Score reflect how often each shooter finished first in the simulations.
+
+Keep in mind that everyone in the Limited Division must shoot a .308 Winchester, and these simulations account for lower hit probabilities for that division. If the Limited shooters were in the Open division (and didn’t use a 308 Win), they’d rank higher in the simulations. The model estimates that a Limited Shooter in the top 50 would see a 6.7 percentage-point increase in hit % on average if they switched to the Open Division.
+
+You may have noticed that the Odds of Highest Overall Score may not perfectly follow the rank or hit %. Why is that? Imagine two shooters: One finishes near the front almost every weekend. The other has more ups and downs, sometimes winning and sometimes finishing much farther back. The first can have the better average finish, while the second wins more often. Our ranking follows average finishing position across all of the simulated matches. The Odds of Highest Overall Score counts only how often someone beat the entire field in the simulations.
+
+Wider ranges can reflect past ups and downs or limited match history. They do not automatically mean a shooter is less consistent in real life. Honestly, the odds between many of these guys are EXTREMELY close!
+
+Favorites In Each Division
+
+Since all of the trophies are based on division, let’s look at who the model believes are the favorites for each one. The tables below show all shooters with more than a 1% chance of winning that division, sorted by predicted division rank.
+
+Open Division
+
+93 total competitors, with a max of 6 from each country. This is the most competitive division, with very few equipment restrictions. Custom rifles are allowed up to .30 caliber and a maximum muzzle velocity of 3,200 fps.
+
+This is everyone the model predicted has more than a 1% chance to win the Open Division.
+
+Limited Division
+
+41 total competitors, with a max of 4 from each country. For this division, shooters must use a rifle chambered in .308 Winchester / 7.62×51 NATO with a max bullet weight of 179 grains and a max velocity of 2800 fps. The table below shows the shooters the model predicted having more than a 1% chance of winning the Limited Division.
+
+Factory Division
+
+32 total competitors, with a max of 4 from each country. Competitors in this division are required to use “a non-custom, standard stock rifle, manufactured/assembled by a single mainstream manufacturer.” Shooters must “compete with the rifle as it comes from the factory,” with only a few specific modifications permitted. There are no price point requirements. The table below shows the shooters the model predicted having more than a 1% chance of winning the Factory Division.
+
+Military/Law Enforcement Division
+
+29 total competitors, with a max of 4 from each country. Reserved for currently serving military personnel or law enforcement officers, either full-time or part-time, using Open equipment rules. The table below shows the shooters the model predicted having more than a 1% chance of winning the Mil/LEO Division.
+
+Ladies Division
+
+22 total competitors, with a max of 4 from each country. Reserved for female competitors, using the same equipment rules as Open. The table below shows the shooters the model predicted having more than a 1% chance of winning the Ladies Division.
+
+Junior Division
+
+19 total competitors, with a max of 4 from each country. Reserved for shooters ages 14–20 at the start of the calendar year, using Open equipment rules. The table below shows the shooters the model predicted having more than a 1% chance of winning the Junior Division.
+
+Senior Division
+
+36 total competitors, with a max of 4 from each country. Reserved for shooters age 55 and older, using Open equipment rules. The table below shows the shooters the model predicted having more than a 1% chance of winning the Senior Division.
+
+Final Shot
+
+Of course, no matter what fancy math models say, it all comes down to impacts on steel! Even if this represents what would happen on average if we shot the match thousands of times, these guys will shoot it once and hand out the trophies.
+
+So, as Clay Blackketter always says: “You just need to have yourself a weekend!”
+
+Congrats to everyone who qualified, and good luck this week! May the best shooters win.
+
+What Is the IPRF World Championship?
+
+The IPRF World Championship brings together elite precision rifle shooters to represent their countries and compete for individual and national team medals. IPRF stands for International Precision Rifle Federation. Competitors qualify through their national associations, so earning a spot is an achievement before the first shot is fired.
+
+The centerfire championship takes place every two years, in even-numbered years; the rimfire championship runs in the alternating odd-numbered years. The 2026 centerfire event is being held at Gravestone Precision in Texas.
+
+For 2026, each country can send up to 30 competitors: six in Open and four in each of six other divisions or categories: Limited, Factory, Ladies, Junior, Senior, and Military/Law Enforcement. Those groups recognize different equipment rules, ages, or eligibility requirements.
+
+The match and stage format is very similar to PRS Pro Series matches where shooters work through timed stages, engaging targets at varying distances from challenging positions. They must manage wind, build steady positions, and hit targets before time expires. Scores determine individual standings and also contribute to national team results.
+
+The latest roster has 270+ competitors from 24 countries, making this a global contest of skill, preparation, and performance under pressure.
+
+The shooting competition will span 4 days. Each team will shoot 2 of the 4 days and have a rest day in between. Each competitor will shoot approximately 200 rounds across 20 stages total.
+
+Spectators are welcome to come out and watch the best shooters in the world compete on the biggest stage!
+
+To learn more about the match and related events, visit: https://usprecisionrifle.org/2026-world-championship-1
+
+Watch It Live!
+
+If you can’t attend in-person but want to follow along in real-time, there are some exciting options this year:
+
+Live scoring will be available through Impact Scoring
+
+PRS Owner/Director Ken Wheeler will be onsite providing live commentary and video throughout all 4 days of the match directly on Impact Scoring, with other special guests (possibly including me, if I can make it 😉).
+
+Facebook
+
+Twitter
+
+Pinterest
+
+About Cal
+
+Check Also
+
+2025 PRS Season Results & New Champ Morgun King
+
+The 2025 PRS Season wrapped with unbelievable shooting, and a new Golden Bullet winner. Morgun King, Austin Buschman, and Clay Blackketter traded blows all weekend, but the real story goes far deeper than who won. New divisions, surprise performances, international contenders, and one junior who walked away with a truckload of awards. You have to see how this one unfolded.
+
+5 comments
+
+Louise Taylor September 20, 2026 at 4:06 pm Hi Cal An excellent stats report. The tension is unbearable but an exciting wait. Keep a look out for the South African Junior Team. I have high hopes for a podium finish for these youngsters.
+
+In my August Issue of On Target Africa magazine I published a tribute to recognise the South Africa National Protea Team. Here is the free to access, flipmag format of the Issue.
+
+https://www.yumpu.com/en/document/view/71271438/on-target-africa-87-august-2026-magazine-online My business Facebook is https://www.facebook.com/OnTargetAfrica/
+
+Congratulations to everyone involved in hosting the 2026 Centrefire IPRF World Championship.
+
+Kind regards Louise
+
+Reply Cal September 20, 2026 at 5:30 pm Thanks, Louise. It looks like Johan Nel and Donavan Cook look to have strong odds of a podium finish in the Junior Division. It really is an achievement to simply earn a spot at this event, but maybe they’ll pull it out!
+
+Thanks, Cal
+
+Reply
+
+Gwen Kerveillant September 20, 2026 at 5:26 pm Why bother with statistics? At the Austin Bushman win the title as always 😎
+
+Reply Cal September 20, 2026 at 5:27 pm I can’t say that I didn’t have the same thought! It’d be hard to put money on anyone else. Wouldn’t it be crazy if he won 3 in a row!
+
+Reply
+
+Pingback: 2026 IPRF World Championship: Halftime Update & Predictions - PrecisionRifleBlog.com
+
+Leave a Reply Cancel reply
+
+Discover more from PrecisionRifleBlog.com
+
+Subscribe now to keep reading and get access to the full archive.
+
+Continue reading

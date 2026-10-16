@@ -1,0 +1,17 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "completed",
+  "input_count": 7,
+  "output_count": 60,
+  "sources_succeeded": 7,
+  "started_at": "2026-10-14T21:08:56Z",
+  "finished_at": "2026-10-14T21:08:59Z",
+  "tools": [
+    "curl",
+    "python3"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_estimated": false,
+  "errors": []
+}
